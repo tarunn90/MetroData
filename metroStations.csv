@@ -1,0 +1,147 @@
+station,r,b,o,g,y,s,address,state,quadrant,year,entrances,stationorder,color1,color2,start,finish,line
+Franconia-Springfield,0,1,0,0,0,0,6880 Frontier Drive Springfield VA 22150,VA,NA,1997,2,1,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Van Dorn Street,0,1,0,0,0,0,5690 Eisenhower Avenue Alexandria VA 22310,VA,NA,1991,2,2,#1C95D3,#e8f4fa,9.5,23.5,Blue
+King St-Old Town,0,1,0,0,1,0,1900 King Street Alexandria VA 22301,VA,NA,1983,3,3,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Braddock Road,0,1,0,0,1,0,700 N. West St. Alexandria VA 22301,VA,NA,1983,1,4,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Ronald Reagan Washington National Airport,0,1,0,0,1,0,251 Hungerford Drive Rockville MD 20850,MD,NA,1977,2,5,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Crystal City,0,1,0,0,1,0,1750 South Clark St. Arlington VA 22202,VA,NA,1977,2,6,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Pentagon City,0,1,0,0,1,0,1250 South Hayes St. Arlington VA 22202,VA,NA,1977,2,7,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Pentagon,0,1,0,0,1,0,2 South Rotary Road Arlington VA 22202,VA,NA,1977,2,8,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Arlington Cemetery,0,1,0,0,0,0,1000 North Memorial Drive Arlington VA 22211,VA,NA,1977,2,9,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Rosslyn,0,1,1,0,0,1,1850 N. Moore Street Arlington VA 22209,VA,NA,1977,3,10,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Foggy Bottom-GWU,0,1,1,0,0,1,2301 I St. NW Washington DC 20037,DC,NW,1977,1,11,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Farragut West,0,1,1,0,0,1,900 18th St. NW Washington DC 20006,DC,NW,1977,2,12,#1C95D3,#e8f4fa,9.5,23.5,Blue
+McPherson Square,0,1,1,0,0,1,1400 I St. NW Washington DC 20005,DC,NW,1977,2,13,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Metro Center,1,1,1,0,0,1,607 13th St. NW Washington DC 20005,DC,NW,1976,4,14,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Federal Triangle,0,1,1,0,0,1,302 12th St. NW Washington DC 20004,DC,NW,1977,1,15,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Smithsonian,0,1,1,0,0,1,1200 Independence Avenue SW Washington DC 20004,DC,SW,1977,2,16,#1C95D3,#e8f4fa,9.5,23.5,Blue
+L'enfant Plaza,0,1,1,1,1,1,600 Maryland Avenue SW Washington DC 20024,MD,SW,1977,3,17,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Federal Center SW,0,1,1,0,0,1,401 3rd Street SW Washington DC 20024,DC,SW,1977,1,18,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Capitol South,0,1,1,0,0,1,355 First Street SE Washington DC 20003,DC,SE,1977,1,19,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Eastern Market ,0,1,1,0,0,1,"701 Pennsylvania Avenue SE Washington, DC 20003",DC,SE,1977,1,20,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Potomac Ave,0,1,1,0,0,1,700 14th Street SE Washington DC 20003,DC,SE,1977,1,21,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Stadium-Armory,0,1,1,0,0,1,192 19th St. SE Washington DC 20003,DC,SE,1977,2,22,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Benning Road,0,1,0,0,0,1,4500 Benning Road Washington DC 20019,DC,SE,1980,1,23,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Capitol Heights,0,1,0,0,0,1,133 Central Avenue Capitol Heights MD 20743,MD,NA,1980,1,24,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Addison Road-Seat Pleasant,0,1,0,0,0,1,100 Addison Road S. Capitol Heights MD 20743,MD,NA,1980,1,25,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Morgan Boulevard,0,1,0,0,0,1,300 Garrett Morgan Blvd. Landover MD 20785,MD,NA,2004,2,26,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Largo Town Center,0,1,0,0,0,0,950 Largo Center Drive Upper Marlboro MD 20774,MD,NA,2004,2,27,#1C95D3,#e8f4fa,9.5,23.5,Blue
+Greenbelt,0,0,0,1,0,0,5717 Greenbelt Metro Drive Greenbelt MD 20740,MD,NA,1993,2,1,#19AF56,#e8f7ee,3.5,16.5,Green
+College Park-U of MD,0,0,0,1,0,0,4931 Calvert Road College Park MD 20740,MD,NA,1993,2,2,#19AF56,#e8f7ee,3.5,16.5,Green
+Prince George's Plaza,0,0,0,1,0,0,3575 East West Highway Hyattsville MD 20782,MD,NA,1993,2,3,#19AF56,#e8f7ee,3.5,16.5,Green
+West Hyattsvile,0,0,0,1,0,0,2700 Hamilton St. Hyattsville MD 20782,MD,NA,1993,1,4,#19AF56,#e8f7ee,3.5,16.5,Green
+Fort Totten,1,0,0,1,1,0,550 Galloway Street NE Washington DC 20011,DC,NE,1978,1,5,#19AF56,#e8f7ee,3.5,16.5,Green
+Georgia Ave-Petworth,0,0,0,1,1,0,3700 Georgia Avenue NW Washington DC 20010,DC,NW,1999,2,6,#19AF56,#e8f7ee,3.5,16.5,Green
+Columbia Heights,0,0,0,1,1,0,3030 14th St. NW Washington DC 20009,DC,NW,1999,2,7,#19AF56,#e8f7ee,3.5,16.5,Green
+U Street/African-Amer Civil War Memorial/Cardozo,0,0,0,1,1,0,1240 U Street NW Washington DC 20009,DC,NW,1991,2,8,#19AF56,#e8f7ee,3.5,16.5,Green
+Shaw-Howard U,0,0,0,1,1,0,1701 8th St. NW Washington DC 20001,DC,NW,1991,2,9,#19AF56,#e8f7ee,3.5,16.5,Green
+Mt Vernon Sq 7th St-Convention Center,0,0,0,1,1,0,700 M St. NW Washington DC 20001,DC,NW,1991,1,10,#19AF56,#e8f7ee,3.5,16.5,Green
+Gallery Pl-Chinatown,1,0,0,1,1,0,630 H St. NW Washington DC 20001,DC,NW,1976,3,11,#19AF56,#e8f7ee,3.5,16.5,Green
+Archives-Navy Memorial-Penn Quarter,0,0,0,1,1,0,701 Pennsylvania Avenue NW Washington DC 20004,DC,NW,1983,1,12,#19AF56,#e8f7ee,3.5,16.5,Green
+L'enfant Plaza,0,1,1,1,1,1,600 Maryland Avenue SW Washington DC 20024,MD,SW,1977,3,13,#19AF56,#e8f7ee,3.5,16.5,Green
+Waterfront,0,0,0,1,0,0,399 M Street SW Washington DC 20024,DC,SW,1991,1,14,#19AF56,#e8f7ee,3.5,16.5,Green
+Navy Yard-Ballpark,0,0,0,1,0,0,200 M Street SE Washington DC 20003,DC,SE,1991,2,15,#19AF56,#e8f7ee,3.5,16.5,Green
+Anacostia,0,0,0,1,0,0,1101 Howard Road SE Washington DC 20020,DC,SE,1991,2,16,#19AF56,#e8f7ee,3.5,16.5,Green
+Congress Heights,0,0,0,1,0,0,1290 Alabama Avenue SE Washington DC 20020,DC,SE,2001,2,17,#19AF56,#e8f7ee,3.5,16.5,Green
+Southern Avenue,0,0,0,1,0,0,1411 Southern Avenue Temple Hills MD 20748,MD,NA,2001,1,18,#19AF56,#e8f7ee,3.5,16.5,Green
+Naylor Road,0,0,0,1,0,0,3101 Branch Avenue Temple Hills MD 20748,MD,NA,2001,1,19,#19AF56,#e8f7ee,3.5,16.5,Green
+Suitland,0,0,0,1,0,0,4500 Silver Hill Road Suitland MD 20746,MD,NA,2001,1,20,#19AF56,#e8f7ee,3.5,16.5,Green
+Branch Ave,0,0,0,1,0,0,4704 Old Soper Road Suitland MD 20746,MD,NA,2001,2,21,#19AF56,#e8f7ee,3.5,16.5,Green
+Vienna/Fairfax-GMU,0,0,1,0,0,0,9550 Saintsbury Drive Fairfax VA 22031,VA,NA,1986,2,1,#DC8622,#fbf2e8,8.5,22.5,Orange
+Dunn Loring-Merrifield,0,0,1,0,0,0,2700 Gallows Road Vienna VA 22180,VA,NA,1986,1,2,#DC8622,#fbf2e8,8.5,22.5,Orange
+West Falls Church-VT/UVA,0,0,1,0,0,0,7040 Haycock Road Falls Church VA 22043,VA,NA,1986,2,3,#DC8622,#fbf2e8,8.5,22.5,Orange
+East Falls Church,0,0,1,0,0,1,2001 N. Sycamore St. Arlington VA 22205,VA,NA,1986,1,4,#DC8622,#fbf2e8,8.5,22.5,Orange
+Ballston-MU,0,0,1,0,0,1,4230 Fairfax Drive Arlington VA 22201,VA,NA,1979,1,5,#DC8622,#fbf2e8,8.5,22.5,Orange
+Virginia Square-GMU,0,0,1,0,0,1,3600 Fairfax Drive Arlington VA 22201,VA,NA,1979,1,6,#DC8622,#fbf2e8,8.5,22.5,Orange
+Clarendon,0,0,1,0,0,1,3100 Wilson Blvd Arlington VA 22201,VA,NA,1979,1,7,#DC8622,#fbf2e8,8.5,22.5,Orange
+Court House,0,0,1,0,0,1,2100 Wilson Blvd Arlington VA 22201,VA,NA,1979,2,8,#DC8622,#fbf2e8,8.5,22.5,Orange
+Rosslyn,0,1,1,0,0,1,1850 N. Moore Street Arlington VA 22209,VA,NA,1977,3,9,#DC8622,#fbf2e8,8.5,22.5,Orange
+Foggy Bottom-GWU,0,1,1,0,0,1,2301 I St. NW Washington DC 20037,DC,NW,1977,1,10,#DC8622,#fbf2e8,8.5,22.5,Orange
+Farragut West,0,1,1,0,0,1,900 18th St. NW Washington DC 20006,DC,NW,1977,2,11,#DC8622,#fbf2e8,8.5,22.5,Orange
+McPherson Square,0,1,1,0,0,1,1400 I St. NW Washington DC 20005,DC,NW,1977,2,12,#DC8622,#fbf2e8,8.5,22.5,Orange
+Metro Center,1,1,1,0,0,1,607 13th St. NW Washington DC 20005,DC,NW,1976,4,13,#DC8622,#fbf2e8,8.5,22.5,Orange
+Federal Triangle,0,1,1,0,0,1,302 12th St. NW Washington DC 20004,DC,NW,1977,1,14,#DC8622,#fbf2e8,8.5,22.5,Orange
+Smithsonian,0,1,1,0,0,1,1200 Independence Avenue SW Washington DC 20004,DC,SW,1977,2,15,#DC8622,#fbf2e8,8.5,22.5,Orange
+L'enfant Plaza,0,1,1,1,1,1,600 Maryland Avenue SW Washington DC 20024,MD,SW,1977,3,16,#DC8622,#fbf2e8,8.5,22.5,Orange
+Federal Center SW,0,1,1,0,0,1,401 3rd Street SW Washington DC 20024,DC,SW,1977,1,17,#DC8622,#fbf2e8,8.5,22.5,Orange
+Capitol South,0,1,1,0,0,1,355 First Street SE Washington DC 20003,DC,SE,1977,1,18,#DC8622,#fbf2e8,8.5,22.5,Orange
+Eastern Market ,0,1,1,0,0,1,"701 Pennsylvania Avenue SE Washington, DC 20003",DC,SE,1977,1,19,#DC8622,#fbf2e8,8.5,22.5,Orange
+Potomac Ave,0,1,1,0,0,1,700 14th Street SE Washington DC 20003,DC,SE,1977,1,20,#DC8622,#fbf2e8,8.5,22.5,Orange
+Stadium-Armory,0,1,1,0,0,1,192 19th St. SE Washington DC 20003,DC,SE,1977,2,21,#DC8622,#fbf2e8,8.5,22.5,Orange
+Minnestoa Ave,0,0,1,0,0,0,4000 Minnesota Avenue NE Washington DC 20019,DC,NE,1978,2,22,#DC8622,#fbf2e8,8.5,22.5,Orange
+Deanwood,0,0,1,0,0,0,4720 Minnesota Avenue NE Washington DC 20019,DC,NE,1978,2,23,#DC8622,#fbf2e8,8.5,22.5,Orange
+Cheverly,0,0,1,0,0,0,5501 Columbia Park Cheverly MD 20785,MD,NA,1978,1,24,#DC8622,#fbf2e8,8.5,22.5,Orange
+Landover,0,0,1,0,0,0,Largo Town Center 9000 Lottsford Road Largo MD 20774,MD,NA,1978,1,25,#DC8622,#fbf2e8,8.5,22.5,Orange
+New Carrollton,0,0,1,0,0,0,4700 Garden City Drive New Carrollton MD 20784,MD,NA,1978,2,26,#DC8622,#fbf2e8,8.5,22.5,Orange
+Shady Grove,1,0,0,0,0,0,15903 Somerville Drive Rockville MD 20855,MD,NA,1984,2,1,#BD173B,#f8e7eb,6.5,22.5,Red
+Rockville,1,0,0,0,0,0,919 Rhode Island Avenue NE Washington DC 20018,DC,NE,1984,2,2,#BD173B,#f8e7eb,6.5,22.5,Red
+Twinbrook,1,0,0,0,0,0,1600 Chapman Avenue Rockville MD 20852,MD,NA,1984,1,3,#BD173B,#f8e7eb,6.5,22.5,Red
+White Flint,1,0,0,0,0,0,5500 Marinelli Road Rockville MD 20852,MD,NA,1984,1,4,#BD173B,#f8e7eb,6.5,22.5,Red
+Grosvenor-Strathmore,1,0,0,0,0,0,10300 Rockville Pike Bethesda MD 20852,MD,NA,1984,3,5,#BD173B,#f8e7eb,6.5,22.5,Red
+Medical Center,1,0,0,0,0,0,8810 Rockville Pike Bethesda MD 20814,MD,NA,1984,1,6,#BD173B,#f8e7eb,6.5,22.5,Red
+Bethesda,1,0,0,0,0,0,7450 Wisconsin Avenue Bethesda MD 20814,MD,NA,1984,3,7,#BD173B,#f8e7eb,6.5,22.5,Red
+Friendship Heights,1,0,0,0,0,0,5337 Wisconsin Avenue NW Washington DC 20015,DC,NW,1984,3,8,#BD173B,#f8e7eb,6.5,22.5,Red
+Tenleytown-AU,1,0,0,0,0,0,4501 Wisconsin Avenue NW Washington DC 20016,DC,NW,1984,2,9,#BD173B,#f8e7eb,6.5,22.5,Red
+Van Ness-UDC,1,0,0,0,0,0,4200 Connecticut Avenue NW Washington DC 20008,DC,NW,1981,2,10,#BD173B,#f8e7eb,6.5,22.5,Red
+Cleveland Park,1,0,0,0,0,0,3599 Connecticut Avenue NW Washington DC 20008,DC,NW,1981,2,11,#BD173B,#f8e7eb,6.5,22.5,Red
+Woodley Park-Zoo/Adams Morgan,1,0,0,0,0,0,2700 Connecticut Ave. NW Washington DC 20008,DC,NW,1981,1,12,#BD173B,#f8e7eb,6.5,22.5,Red
+Dupont Circle,1,0,0,0,0,0,1525 20th St. NW Washington DC 20036,DC,NW,1977,2,13,#BD173B,#f8e7eb,6.5,22.5,Red
+Farragut North,1,0,0,0,0,0,1001 Connecticut Avenue NW Washington DC 20036,DC,NW,1976,3,14,#BD173B,#f8e7eb,6.5,22.5,Red
+Metro Center,1,1,1,0,0,1,607 13th St. NW Washington DC 20005,DC,NW,1976,4,15,#BD173B,#f8e7eb,6.5,22.5,Red
+Gallery Pl-Chinatown,1,0,0,1,1,0,630 H St. NW Washington DC 20001,DC,NW,1976,3,16,#BD173B,#f8e7eb,6.5,22.5,Red
+Judiciary Square,1,0,0,0,0,0,450 F Street NW Washington DC 20001,DC,NW,1976,2,17,#BD173B,#f8e7eb,6.5,22.5,Red
+Union Station,1,0,0,0,0,0,701 First St. NE Washington DC 20002,DC,NE,1976,3,18,#BD173B,#f8e7eb,6.5,22.5,Red
+Noma-Gallaudet,1,0,0,0,0,0,200 Florida Ave N.E. Washington DC 20002,DC,NE,2004,2,19,#BD173B,#f8e7eb,6.5,22.5,Red
+Rhose Island Ave-Brentwood,1,0,0,0,0,0,2400 S. Smith Blvd. Arlington VA 22202,VA,NA,1976,1,20,#BD173B,#f8e7eb,6.5,22.5,Red
+Brookland-CUA,1,0,0,0,0,0,801 Michigan Avenue NE Washington DC 20017,DC,NE,1978,2,21,#BD173B,#f8e7eb,6.5,22.5,Red
+Fort Totten,1,0,0,1,1,0,550 Galloway Street NE Washington DC 20011,DC,NE,1978,1,22,#BD173B,#f8e7eb,6.5,22.5,Red
+Takoma,1,0,0,0,0,0,327 Cedar Street NW Washington DC 20012,DC,NW,1978,1,23,#BD173B,#f8e7eb,6.5,22.5,Red
+Silver Spring,1,0,0,0,0,0,8400 Colesville Road Silver Spring MD 20910,MD,NA,1978,2,24,#BD173B,#f8e7eb,6.5,22.5,Red
+Forest Glen,1,0,0,0,0,0,9730 Georgia Avenue Forest Glen MD 20910,MD,NA,1990,2,25,#BD173B,#f8e7eb,6.5,22.5,Red
+Wheaton,1,0,0,0,0,0,11171 Georgia Avenue Silver Spring MD 20902,MD,NA,1990,2,26,#BD173B,#f8e7eb,6.5,22.5,Red
+Glenmont,1,0,0,0,0,0,12501 Georgia Avenue Silver Spring MD 20906,MD,NA,1998,2,27,#BD173B,#f8e7eb,6.5,22.5,Red
+Wiehle-Reston East,0,0,0,0,0,1,1862 Wiehle Avenue Reston VA 20190,VA,NA,2014,2,1,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Spring Hill,0,0,0,0,0,1,1576 Spring Hill Road Vienna VA 22182,VA,NA,2014,2,2,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Greensboro,0,0,0,0,0,1,8305 Leesburg Pike Vienna VA 22182,VA,NA,2014,2,3,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Tysons Corner,0,0,0,0,0,1,1943 Chain Bridge Road McLean VA 22102,VA,NA,2014,2,4,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+McLean,0,0,0,0,0,1,1824 Dolley Madison Boulevard McLean VA 22102,VA,NA,2014,2,5,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+East Falls Church,0,0,1,0,0,1,2001 N. Sycamore St. Arlington VA 22205,VA,NA,1986,1,6,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Ballston-MU,0,0,1,0,0,1,4230 Fairfax Drive Arlington VA 22201,VA,NA,1979,1,7,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Virginia Square-GMU,0,0,1,0,0,1,3600 Fairfax Drive Arlington VA 22201,VA,NA,1979,1,8,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Clarendon,0,0,1,0,0,1,3100 Wilson Blvd Arlington VA 22201,VA,NA,1979,1,9,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Court House,0,0,1,0,0,1,2100 Wilson Blvd Arlington VA 22201,VA,NA,1979,2,10,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Rosslyn,0,1,1,0,0,1,1850 N. Moore Street Arlington VA 22209,VA,NA,1977,3,11,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Foggy Bottom-GWU,0,1,1,0,0,1,2301 I St. NW Washington DC 20037,DC,NW,1977,1,12,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Farragut West,0,1,1,0,0,1,900 18th St. NW Washington DC 20006,DC,NW,1977,2,13,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+McPherson Square,0,1,1,0,0,1,1400 I St. NW Washington DC 20005,DC,NW,1977,2,14,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Metro Center,1,1,1,0,0,1,607 13th St. NW Washington DC 20005,DC,NW,1976,4,15,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Federal Triangle,0,1,1,0,0,1,302 12th St. NW Washington DC 20004,DC,NW,1977,1,16,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Smithsonian,0,1,1,0,0,1,1200 Independence Avenue SW Washington DC 20004,DC,SW,1977,2,17,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+L'enfant Plaza,0,1,1,1,1,1,600 Maryland Avenue SW Washington DC 20024,MD,SW,1977,3,18,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Federal Center SW,0,1,1,0,0,1,401 3rd Street SW Washington DC 20024,DC,SW,1977,1,19,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Capitol South,0,1,1,0,0,1,355 First Street SE Washington DC 20003,DC,SE,1977,1,20,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Eastern Market ,0,1,1,0,0,1,"701 Pennsylvania Avenue SE Washington, DC 20003",DC,SE,1977,1,21,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Potomac Ave,0,1,1,0,0,1,700 14th Street SE Washington DC 20003,DC,SE,1977,1,22,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Stadium-Armory,0,1,1,0,0,1,192 19th St. SE Washington DC 20003,DC,SE,1977,2,23,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Benning Road,0,1,0,0,0,1,4500 Benning Road Washington DC 20019,DC,SE,1980,1,24,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Capitol Heights,0,1,0,0,0,1,133 Central Avenue Capitol Heights MD 20743,MD,NA,1980,1,25,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Addison Road-Seat Pleasant,0,1,0,0,0,1,100 Addison Road S. Capitol Heights MD 20743,MD,NA,1980,1,26,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Morgan Boulevard,0,1,0,0,0,1,300 Garrett Morgan Blvd. Landover MD 20785,MD,NA,2004,2,27,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Largo Town Center,0,1,0,0,0,1,950 Largo Center Drive Upper Marlboro MD 20774,MD,NA,2004,2,28,#A1A3A1,#f5f5f5,10.5,24.5,Silver
+Fort Totten,1,0,0,1,1,0,550 Galloway Street NE Washington DC 20011,DC,NE,1978,1,1,#F6D336,#fefaea,0,8.5,Yellow
+Georgia Ave-Petworth,0,0,0,1,1,0,3700 Georgia Avenue NW Washington DC 20010,DC,NW,1999,2,2,#F6D336,#fefaea,0,8.5,Yellow
+Columbia Heights,0,0,0,1,1,0,3030 14th St. NW Washington DC 20009,DC,NW,1999,2,3,#F6D336,#fefaea,0,8.5,Yellow
+U Street/African-Amer Civil War Memorial/Cardozo,0,0,0,1,1,0,1240 U Street NW Washington DC 20009,DC,NW,1991,2,4,#F6D336,#fefaea,0,8.5,Yellow
+Shaw-Howard U,0,0,0,1,1,0,1701 8th St. NW Washington DC 20001,DC,NW,1991,2,5,#F6D336,#fefaea,0,8.5,Yellow
+Mt Vernon Sq 7th St-Convention Center,0,0,0,1,1,0,700 M St. NW Washington DC 20001,DC,NW,1991,1,6,#F6D336,#fefaea,0,8.5,Yellow
+Gallery Pl-Chinatown,1,0,0,1,1,0,630 H St. NW Washington DC 20001,DC,NW,1976,3,7,#F6D336,#fefaea,0,8.5,Yellow
+Archives-Navy Memorial-Penn Quarter,0,0,0,1,1,0,701 Pennsylvania Avenue NW Washington DC 20004,DC,NW,1983,1,8,#F6D336,#fefaea,0,8.5,Yellow
+L'enfant Plaza,0,1,1,1,1,1,600 Maryland Avenue SW Washington DC 20024,MD,SW,1977,3,9,#F6D336,#fefaea,0,8.5,Yellow
+Pentagon,0,1,0,0,1,0,2 South Rotary Road Arlington VA 22202,VA,NA,1977,2,10,#F6D336,#fefaea,0,8.5,Yellow
+Pentagon City,0,1,0,0,1,0,1250 South Hayes St. Arlington VA 22202,VA,NA,1977,2,11,#F6D336,#fefaea,0,8.5,Yellow
+Crystal City,0,1,0,0,1,0,1750 South Clark St. Arlington VA 22202,VA,NA,1977,2,12,#F6D336,#fefaea,0,8.5,Yellow
+Ronald Reagan Washington National Airport,0,1,0,0,1,0,251 Hungerford Drive Rockville MD 20850,MD,NA,1977,2,13,#F6D336,#fefaea,0,8.5,Yellow
+Braddock Road,0,1,0,0,1,0,700 N. West St. Alexandria VA 22301,VA,NA,1983,1,14,#F6D336,#fefaea,0,8.5,Yellow
+King St-Old Town,0,1,0,0,1,0,1900 King Street Alexandria VA 22301,VA,NA,1983,3,15,#F6D336,#fefaea,0,8.5,Yellow
+Eisenhower Avenue,0,0,0,0,1,0,2400 Eisenhower Avenue Alexandria VA 22314,VA,NA,1983,2,16,#F6D336,#fefaea,0,8.5,Yellow
+Huntington,0,0,0,0,1,0,2501 Huntington Ave Huntington VA 22303,VA,NA,1983,2,17,#F6D336,#fefaea,0,8.5,Yellow
