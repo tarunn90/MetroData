@@ -1,0 +1,2029 @@
+"","Station","Time","Entrances","Order","line","color1","color2","start","finish"
+"1","Vienna","04:45",510,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2","Vienna","05:00",497,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"3","Vienna","05:15",750,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"4","Vienna","05:30",828,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"5","Vienna","05:45",1289,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"6","Vienna","06:00",1603,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"7","Vienna","06:15",2090,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"8","Vienna","06:30",2202,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"9","Vienna","06:45",2643,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"10","Vienna","07:00",3003,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"11","Vienna","07:15",3294,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"12","Vienna","07:30",3854,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"13","Vienna","07:45",3436,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"14","Vienna","08:00",3658,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"15","Vienna","08:15",3441,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"16","Vienna","08:30",2773,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"17","Vienna","08:45",2231,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"18","Vienna","09:00",1810,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"19","Vienna","09:15",1419,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"20","Vienna","09:30",1351,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"21","Vienna","09:45",1002,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"22","Vienna","10:00",1089,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"23","Vienna","10:15",842,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"24","Vienna","10:30",769,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"25","Vienna","10:45",646,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"26","Vienna","11:00",631,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"27","Vienna","11:15",585,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"28","Vienna","11:30",590,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"29","Vienna","11:45",514,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"30","Vienna","12:00",566,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"31","Vienna","12:15",572,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"32","Vienna","12:30",486,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"33","Vienna","12:45",462,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"34","Vienna","13:00",467,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"35","Vienna","13:15",459,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"36","Vienna","13:30",417,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"37","Vienna","13:45",459,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"38","Vienna","14:00",464,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"39","Vienna","14:15",416,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"40","Vienna","14:30",406,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"41","Vienna","14:45",464,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"42","Vienna","15:00",468,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"43","Vienna","15:15",430,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"44","Vienna","15:30",545,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"45","Vienna","15:45",531,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"46","Vienna","16:00",532,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"47","Vienna","16:15",597,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"48","Vienna","16:30",634,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"49","Vienna","16:45",650,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"50","Vienna","17:00",730,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"51","Vienna","17:15",718,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"52","Vienna","17:30",772,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"53","Vienna","17:45",691,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"54","Vienna","18:00",638,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"55","Vienna","18:15",551,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"56","Vienna","18:30",518,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"57","Vienna","18:45",437,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"58","Vienna","19:00",465,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"59","Vienna","19:15",370,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"60","Vienna","19:30",378,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"61","Vienna","19:45",359,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"62","Vienna","20:00",318,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"63","Vienna","20:15",262,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"64","Vienna","20:30",225,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"65","Vienna","20:45",256,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"66","Vienna","21:00",242,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"67","Vienna","21:15",240,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"68","Vienna","21:30",234,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"69","Vienna","21:45",269,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"70","Vienna","22:00",248,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"71","Vienna","22:15",225,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"72","Vienna","22:30",189,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"73","Vienna","22:45",169,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"74","Vienna","23:00",131,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"75","Vienna","23:15",106,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"76","Vienna","23:30",34,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"77","Vienna","23:45",19,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"78","Vienna","04:30",200,1,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"79","Dunn Loring","04:45",198,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"80","Dunn Loring","05:00",145,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"81","Dunn Loring","05:15",163,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"82","Dunn Loring","05:30",212,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"83","Dunn Loring","05:45",327,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"84","Dunn Loring","06:00",426,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"85","Dunn Loring","06:15",584,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"86","Dunn Loring","06:30",617,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"87","Dunn Loring","06:45",825,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"88","Dunn Loring","07:00",1029,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"89","Dunn Loring","07:15",1168,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"90","Dunn Loring","07:30",1300,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"91","Dunn Loring","07:45",1457,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"92","Dunn Loring","08:00",1461,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"93","Dunn Loring","08:15",1298,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"94","Dunn Loring","08:30",1185,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"95","Dunn Loring","08:45",994,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"96","Dunn Loring","09:00",851,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"97","Dunn Loring","09:15",732,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"98","Dunn Loring","09:30",691,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"99","Dunn Loring","09:45",529,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"100","Dunn Loring","10:00",502,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"101","Dunn Loring","10:15",419,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"102","Dunn Loring","10:30",345,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"103","Dunn Loring","10:45",320,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"104","Dunn Loring","11:00",331,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"105","Dunn Loring","11:15",326,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"106","Dunn Loring","11:30",318,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"107","Dunn Loring","11:45",273,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"108","Dunn Loring","12:00",289,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"109","Dunn Loring","12:15",302,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"110","Dunn Loring","12:30",274,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"111","Dunn Loring","12:45",277,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"112","Dunn Loring","13:00",277,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"113","Dunn Loring","13:15",301,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"114","Dunn Loring","13:30",280,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"115","Dunn Loring","13:45",245,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"116","Dunn Loring","14:00",266,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"117","Dunn Loring","14:15",267,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"118","Dunn Loring","14:30",276,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"119","Dunn Loring","14:45",279,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"120","Dunn Loring","15:00",351,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"121","Dunn Loring","15:15",365,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"122","Dunn Loring","15:30",371,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"123","Dunn Loring","15:45",408,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"124","Dunn Loring","16:00",411,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"125","Dunn Loring","16:15",504,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"126","Dunn Loring","16:30",514,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"127","Dunn Loring","16:45",500,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"128","Dunn Loring","17:00",608,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"129","Dunn Loring","17:15",601,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"130","Dunn Loring","17:30",524,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"131","Dunn Loring","17:45",457,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"132","Dunn Loring","18:00",434,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"133","Dunn Loring","18:15",419,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"134","Dunn Loring","18:30",324,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"135","Dunn Loring","18:45",315,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"136","Dunn Loring","19:00",313,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"137","Dunn Loring","19:15",242,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"138","Dunn Loring","19:30",247,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"139","Dunn Loring","19:45",180,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"140","Dunn Loring","20:00",175,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"141","Dunn Loring","20:15",143,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"142","Dunn Loring","20:30",145,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"143","Dunn Loring","20:45",131,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"144","Dunn Loring","21:00",157,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"145","Dunn Loring","21:15",129,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"146","Dunn Loring","21:30",127,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"147","Dunn Loring","21:45",134,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"148","Dunn Loring","22:00",135,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"149","Dunn Loring","22:15",109,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"150","Dunn Loring","22:30",98,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"151","Dunn Loring","22:45",113,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"152","Dunn Loring","23:00",75,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"153","Dunn Loring","23:15",78,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"154","Dunn Loring","23:30",25,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"155","Dunn Loring","23:45",20,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"156","Dunn Loring","04:30",7,2,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"157","West Falls Church","04:45",78,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"158","West Falls Church","05:00",140,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"159","West Falls Church","05:15",143,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"160","West Falls Church","05:30",209,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"161","West Falls Church","05:45",225,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"162","West Falls Church","06:00",389,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"163","West Falls Church","06:15",303,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"164","West Falls Church","06:30",473,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"165","West Falls Church","06:45",502,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"166","West Falls Church","07:00",800,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"167","West Falls Church","07:15",759,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"168","West Falls Church","07:30",1008,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"169","West Falls Church","07:45",1137,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"170","West Falls Church","08:00",1209,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"171","West Falls Church","08:15",1266,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"172","West Falls Church","08:30",1077,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"173","West Falls Church","08:45",821,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"174","West Falls Church","09:00",679,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"175","West Falls Church","09:15",588,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"176","West Falls Church","09:30",493,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"177","West Falls Church","09:45",367,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"178","West Falls Church","10:00",347,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"179","West Falls Church","10:15",287,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"180","West Falls Church","10:30",262,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"181","West Falls Church","10:45",223,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"182","West Falls Church","11:00",228,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"183","West Falls Church","11:15",210,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"184","West Falls Church","11:30",226,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"185","West Falls Church","11:45",199,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"186","West Falls Church","12:00",226,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"187","West Falls Church","12:15",182,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"188","West Falls Church","12:30",186,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"189","West Falls Church","12:45",161,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"190","West Falls Church","13:00",153,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"191","West Falls Church","13:15",180,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"192","West Falls Church","13:30",176,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"193","West Falls Church","13:45",172,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"194","West Falls Church","14:00",156,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"195","West Falls Church","14:15",175,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"196","West Falls Church","14:30",149,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"197","West Falls Church","14:45",119,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"198","West Falls Church","15:00",209,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"199","West Falls Church","15:15",184,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"200","West Falls Church","15:30",183,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"201","West Falls Church","15:45",189,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"202","West Falls Church","16:00",205,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"203","West Falls Church","16:15",222,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"204","West Falls Church","16:30",227,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"205","West Falls Church","16:45",250,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"206","West Falls Church","17:00",225,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"207","West Falls Church","17:15",240,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"208","West Falls Church","17:30",262,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"209","West Falls Church","17:45",249,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"210","West Falls Church","18:00",240,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"211","West Falls Church","18:15",196,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"212","West Falls Church","18:30",198,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"213","West Falls Church","18:45",191,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"214","West Falls Church","19:00",140,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"215","West Falls Church","19:15",118,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"216","West Falls Church","19:30",115,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"217","West Falls Church","19:45",100,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"218","West Falls Church","20:00",84,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"219","West Falls Church","20:15",98,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"220","West Falls Church","20:30",82,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"221","West Falls Church","20:45",96,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"222","West Falls Church","21:00",80,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"223","West Falls Church","21:15",64,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"224","West Falls Church","21:30",81,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"225","West Falls Church","21:45",106,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"226","West Falls Church","22:00",76,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"227","West Falls Church","22:15",77,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"228","West Falls Church","22:30",62,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"229","West Falls Church","22:45",35,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"230","West Falls Church","23:00",18,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"231","West Falls Church","23:15",25,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"232","West Falls Church","23:30",7,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"233","West Falls Church","23:45",6,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"234","West Falls Church","04:30",1,3,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"235","East Falls Church","04:45",77,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"236","East Falls Church","05:00",241,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"237","East Falls Church","05:15",153,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"238","East Falls Church","05:30",231,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"239","East Falls Church","05:45",246,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"240","East Falls Church","06:00",424,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"241","East Falls Church","06:15",515,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"242","East Falls Church","06:30",717,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"243","East Falls Church","06:45",855,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"244","East Falls Church","07:00",1041,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"245","East Falls Church","07:15",1349,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"246","East Falls Church","07:30",1461,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"247","East Falls Church","07:45",1539,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"248","East Falls Church","08:00",1470,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"249","East Falls Church","08:15",1557,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"250","East Falls Church","08:30",1482,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"251","East Falls Church","08:45",1242,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"252","East Falls Church","09:00",950,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"253","East Falls Church","09:15",780,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"254","East Falls Church","09:30",642,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"255","East Falls Church","09:45",487,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"256","East Falls Church","10:00",473,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"257","East Falls Church","10:15",423,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"258","East Falls Church","10:30",346,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"259","East Falls Church","10:45",331,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"260","East Falls Church","11:00",290,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"261","East Falls Church","11:15",328,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"262","East Falls Church","11:30",278,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"263","East Falls Church","11:45",261,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"264","East Falls Church","12:00",282,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"265","East Falls Church","12:15",252,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"266","East Falls Church","12:30",262,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"267","East Falls Church","12:45",246,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"268","East Falls Church","13:00",246,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"269","East Falls Church","13:15",252,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"270","East Falls Church","13:30",245,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"271","East Falls Church","13:45",225,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"272","East Falls Church","14:00",216,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"273","East Falls Church","14:15",225,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"274","East Falls Church","14:30",249,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"275","East Falls Church","14:45",252,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"276","East Falls Church","15:00",306,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"277","East Falls Church","15:15",380,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"278","East Falls Church","15:30",349,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"279","East Falls Church","15:45",341,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"280","East Falls Church","16:00",327,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"281","East Falls Church","16:15",387,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"282","East Falls Church","16:30",359,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"283","East Falls Church","16:45",392,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"284","East Falls Church","17:00",404,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"285","East Falls Church","17:15",490,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"286","East Falls Church","17:30",418,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"287","East Falls Church","17:45",414,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"288","East Falls Church","18:00",434,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"289","East Falls Church","18:15",398,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"290","East Falls Church","18:30",371,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"291","East Falls Church","18:45",311,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"292","East Falls Church","19:00",290,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"293","East Falls Church","19:15",290,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"294","East Falls Church","19:30",258,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"295","East Falls Church","19:45",173,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"296","East Falls Church","20:00",191,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"297","East Falls Church","20:15",159,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"298","East Falls Church","20:30",154,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"299","East Falls Church","20:45",127,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"300","East Falls Church","21:00",161,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"301","East Falls Church","21:15",152,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"302","East Falls Church","21:30",138,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"303","East Falls Church","21:45",144,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"304","East Falls Church","22:00",145,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"305","East Falls Church","22:15",103,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"306","East Falls Church","22:30",85,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"307","East Falls Church","22:45",62,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"308","East Falls Church","23:00",65,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"309","East Falls Church","23:15",53,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"310","East Falls Church","23:30",29,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"311","East Falls Church","23:45",18,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"312","East Falls Church","04:30",1,4,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"313","Ballston","04:45",49,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"314","Ballston","05:00",240,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"315","Ballston","05:15",209,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"316","Ballston","05:30",432,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"317","Ballston","05:45",371,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"318","Ballston","06:00",476,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"319","Ballston","06:15",745,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"320","Ballston","06:30",833,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"321","Ballston","06:45",1020,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"322","Ballston","07:00",1401,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"323","Ballston","07:15",1683,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"324","Ballston","07:30",2093,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"325","Ballston","07:45",2461,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"326","Ballston","08:00",2957,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"327","Ballston","08:15",3229,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"328","Ballston","08:30",3049,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"329","Ballston","08:45",2265,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"330","Ballston","09:00",1919,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"331","Ballston","09:15",1536,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"332","Ballston","09:30",1301,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"333","Ballston","09:45",952,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"334","Ballston","10:00",826,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"335","Ballston","10:15",799,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"336","Ballston","10:30",718,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"337","Ballston","10:45",664,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"338","Ballston","11:00",646,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"339","Ballston","11:15",640,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"340","Ballston","11:30",644,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"341","Ballston","11:45",661,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"342","Ballston","12:00",681,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"343","Ballston","12:15",661,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"344","Ballston","12:30",635,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"345","Ballston","12:45",668,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"346","Ballston","13:00",686,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"347","Ballston","13:15",664,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"348","Ballston","13:30",714,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"349","Ballston","13:45",645,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"350","Ballston","14:00",732,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"351","Ballston","14:15",738,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"352","Ballston","14:30",791,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"353","Ballston","14:45",752,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"354","Ballston","15:00",946,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"355","Ballston","15:15",1014,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"356","Ballston","15:30",1117,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"357","Ballston","15:45",1037,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"358","Ballston","16:00",1442,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"359","Ballston","16:15",1358,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"360","Ballston","16:30",1524,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"361","Ballston","16:45",1630,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"362","Ballston","17:00",2169,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"363","Ballston","17:15",2061,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"364","Ballston","17:30",2002,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"365","Ballston","17:45",1709,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"366","Ballston","18:00",1570,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"367","Ballston","18:15",1437,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"368","Ballston","18:30",1233,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"369","Ballston","18:45",1019,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"370","Ballston","19:00",946,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"371","Ballston","19:15",755,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"372","Ballston","19:30",698,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"373","Ballston","19:45",614,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"374","Ballston","20:00",579,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"375","Ballston","20:15",573,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"376","Ballston","20:30",536,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"377","Ballston","20:45",510,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"378","Ballston","21:00",549,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"379","Ballston","21:15",524,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"380","Ballston","21:30",437,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"381","Ballston","21:45",417,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"382","Ballston","22:00",346,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"383","Ballston","22:15",304,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"384","Ballston","22:30",319,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"385","Ballston","22:45",270,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"386","Ballston","23:00",260,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"387","Ballston","23:15",236,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"388","Ballston","23:30",192,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"389","Ballston","23:45",81,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"390","Ballston","04:30",0,5,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"391","Virginia Square-GMU","04:45",5,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"392","Virginia Square-GMU","05:00",127,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"393","Virginia Square-GMU","05:15",103,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"394","Virginia Square-GMU","05:30",100,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"395","Virginia Square-GMU","05:45",131,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"396","Virginia Square-GMU","06:00",161,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"397","Virginia Square-GMU","06:15",264,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"398","Virginia Square-GMU","06:30",338,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"399","Virginia Square-GMU","06:45",411,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"400","Virginia Square-GMU","07:00",538,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"401","Virginia Square-GMU","07:15",772,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"402","Virginia Square-GMU","07:30",1068,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"403","Virginia Square-GMU","07:45",1159,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"404","Virginia Square-GMU","08:00",1506,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"405","Virginia Square-GMU","08:15",1546,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"406","Virginia Square-GMU","08:30",1448,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"407","Virginia Square-GMU","08:45",1100,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"408","Virginia Square-GMU","09:00",871,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"409","Virginia Square-GMU","09:15",680,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"410","Virginia Square-GMU","09:30",584,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"411","Virginia Square-GMU","09:45",472,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"412","Virginia Square-GMU","10:00",437,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"413","Virginia Square-GMU","10:15",350,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"414","Virginia Square-GMU","10:30",356,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"415","Virginia Square-GMU","10:45",285,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"416","Virginia Square-GMU","11:00",309,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"417","Virginia Square-GMU","11:15",300,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"418","Virginia Square-GMU","11:30",306,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"419","Virginia Square-GMU","11:45",309,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"420","Virginia Square-GMU","12:00",307,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"421","Virginia Square-GMU","12:15",284,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"422","Virginia Square-GMU","12:30",298,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"423","Virginia Square-GMU","12:45",258,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"424","Virginia Square-GMU","13:00",278,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"425","Virginia Square-GMU","13:15",274,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"426","Virginia Square-GMU","13:30",262,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"427","Virginia Square-GMU","13:45",244,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"428","Virginia Square-GMU","14:00",271,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"429","Virginia Square-GMU","14:15",277,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"430","Virginia Square-GMU","14:30",276,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"431","Virginia Square-GMU","14:45",311,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"432","Virginia Square-GMU","15:00",346,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"433","Virginia Square-GMU","15:15",336,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"434","Virginia Square-GMU","15:30",483,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"435","Virginia Square-GMU","15:45",445,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"436","Virginia Square-GMU","16:00",535,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"437","Virginia Square-GMU","16:15",554,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"438","Virginia Square-GMU","16:30",603,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"439","Virginia Square-GMU","16:45",594,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"440","Virginia Square-GMU","17:00",671,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"441","Virginia Square-GMU","17:15",615,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"442","Virginia Square-GMU","17:30",615,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"443","Virginia Square-GMU","17:45",558,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"444","Virginia Square-GMU","18:00",588,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"445","Virginia Square-GMU","18:15",466,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"446","Virginia Square-GMU","18:30",444,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"447","Virginia Square-GMU","18:45",379,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"448","Virginia Square-GMU","19:00",384,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"449","Virginia Square-GMU","19:15",338,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"450","Virginia Square-GMU","19:30",272,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"451","Virginia Square-GMU","19:45",241,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"452","Virginia Square-GMU","20:00",235,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"453","Virginia Square-GMU","20:15",227,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"454","Virginia Square-GMU","20:30",204,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"455","Virginia Square-GMU","20:45",205,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"456","Virginia Square-GMU","21:00",174,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"457","Virginia Square-GMU","21:15",187,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"458","Virginia Square-GMU","21:30",169,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"459","Virginia Square-GMU","21:45",181,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"460","Virginia Square-GMU","22:00",242,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"461","Virginia Square-GMU","22:15",141,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"462","Virginia Square-GMU","22:30",117,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"463","Virginia Square-GMU","22:45",99,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"464","Virginia Square-GMU","23:00",88,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"465","Virginia Square-GMU","23:15",63,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"466","Virginia Square-GMU","23:30",38,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"467","Virginia Square-GMU","23:45",24,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"468","Virginia Square-GMU","04:30",0,6,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"469","Clarendon","04:45",0,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"470","Clarendon","05:00",82,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"471","Clarendon","05:15",75,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"472","Clarendon","05:30",107,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"473","Clarendon","05:45",123,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"474","Clarendon","06:00",209,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"475","Clarendon","06:15",250,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"476","Clarendon","06:30",325,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"477","Clarendon","06:45",382,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"478","Clarendon","07:00",563,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"479","Clarendon","07:15",723,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"480","Clarendon","07:30",941,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"481","Clarendon","07:45",1130,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"482","Clarendon","08:00",1439,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"483","Clarendon","08:15",1426,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"484","Clarendon","08:30",1455,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"485","Clarendon","08:45",1227,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"486","Clarendon","09:00",997,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"487","Clarendon","09:15",814,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"488","Clarendon","09:30",633,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"489","Clarendon","09:45",471,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"490","Clarendon","10:00",409,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"491","Clarendon","10:15",336,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"492","Clarendon","10:30",338,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"493","Clarendon","10:45",278,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"494","Clarendon","11:00",328,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"495","Clarendon","11:15",310,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"496","Clarendon","11:30",320,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"497","Clarendon","11:45",322,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"498","Clarendon","12:00",328,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"499","Clarendon","12:15",329,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"500","Clarendon","12:30",300,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"501","Clarendon","12:45",287,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"502","Clarendon","13:00",347,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"503","Clarendon","13:15",358,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"504","Clarendon","13:30",324,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"505","Clarendon","13:45",308,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"506","Clarendon","14:00",350,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"507","Clarendon","14:15",339,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"508","Clarendon","14:30",374,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"509","Clarendon","14:45",354,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"510","Clarendon","15:00",401,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"511","Clarendon","15:15",351,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"512","Clarendon","15:30",388,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"513","Clarendon","15:45",382,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"514","Clarendon","16:00",480,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"515","Clarendon","16:15",448,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"516","Clarendon","16:30",526,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"517","Clarendon","16:45",596,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"518","Clarendon","17:00",728,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"519","Clarendon","17:15",679,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"520","Clarendon","17:30",693,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"521","Clarendon","17:45",601,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"522","Clarendon","18:00",698,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"523","Clarendon","18:15",621,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"524","Clarendon","18:30",587,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"525","Clarendon","18:45",498,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"526","Clarendon","19:00",567,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"527","Clarendon","19:15",514,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"528","Clarendon","19:30",466,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"529","Clarendon","19:45",441,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"530","Clarendon","20:00",467,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"531","Clarendon","20:15",451,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"532","Clarendon","20:30",420,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"533","Clarendon","20:45",425,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"534","Clarendon","21:00",381,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"535","Clarendon","21:15",409,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"536","Clarendon","21:30",374,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"537","Clarendon","21:45",388,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"538","Clarendon","22:00",375,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"539","Clarendon","22:15",324,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"540","Clarendon","22:30",293,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"541","Clarendon","22:45",258,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"542","Clarendon","23:00",271,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"543","Clarendon","23:15",224,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"544","Clarendon","23:30",195,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"545","Clarendon","23:45",108,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"546","Clarendon","04:30",0,7,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"547","Court House","04:45",6,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"548","Court House","05:00",104,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"549","Court House","05:15",136,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"550","Court House","05:30",194,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"551","Court House","05:45",224,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"552","Court House","06:00",302,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"553","Court House","06:15",406,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"554","Court House","06:30",523,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"555","Court House","06:45",640,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"556","Court House","07:00",937,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"557","Court House","07:15",1246,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"558","Court House","07:30",1591,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"559","Court House","07:45",1919,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"560","Court House","08:00",2365,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"561","Court House","08:15",2511,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"562","Court House","08:30",2299,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"563","Court House","08:45",1940,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"564","Court House","09:00",1542,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"565","Court House","09:15",1233,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"566","Court House","09:30",970,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"567","Court House","09:45",746,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"568","Court House","10:00",644,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"569","Court House","10:15",547,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"570","Court House","10:30",502,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"571","Court House","10:45",466,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"572","Court House","11:00",454,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"573","Court House","11:15",468,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"574","Court House","11:30",479,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"575","Court House","11:45",459,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"576","Court House","12:00",490,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"577","Court House","12:15",473,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"578","Court House","12:30",461,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"579","Court House","12:45",390,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"580","Court House","13:00",439,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"581","Court House","13:15",436,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"582","Court House","13:30",437,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"583","Court House","13:45",388,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"584","Court House","14:00",469,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"585","Court House","14:15",421,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"586","Court House","14:30",456,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"587","Court House","14:45",483,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"588","Court House","15:00",530,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"589","Court House","15:15",536,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"590","Court House","15:30",645,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"591","Court House","15:45",606,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"592","Court House","16:00",793,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"593","Court House","16:15",764,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"594","Court House","16:30",992,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"595","Court House","16:45",916,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"596","Court House","17:00",1344,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"597","Court House","17:15",1164,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"598","Court House","17:30",1225,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"599","Court House","17:45",1070,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"600","Court House","18:00",1080,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"601","Court House","18:15",945,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"602","Court House","18:30",842,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"603","Court House","18:45",655,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"604","Court House","19:00",626,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"605","Court House","19:15",525,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"606","Court House","19:30",460,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"607","Court House","19:45",389,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"608","Court House","20:00",359,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"609","Court House","20:15",335,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"610","Court House","20:30",340,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"611","Court House","20:45",303,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"612","Court House","21:00",337,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"613","Court House","21:15",315,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"614","Court House","21:30",343,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"615","Court House","21:45",342,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"616","Court House","22:00",302,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"617","Court House","22:15",220,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"618","Court House","22:30",210,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"619","Court House","22:45",177,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"620","Court House","23:00",162,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"621","Court House","23:15",131,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"622","Court House","23:30",106,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"623","Court House","23:45",66,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"624","Court House","04:30",0,8,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"625","Rosslyn","04:45",5,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"626","Rosslyn","05:00",94,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"627","Rosslyn","05:15",308,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"628","Rosslyn","05:30",227,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"629","Rosslyn","05:45",324,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"630","Rosslyn","06:00",449,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"631","Rosslyn","06:15",517,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"632","Rosslyn","06:30",788,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"633","Rosslyn","06:45",845,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"634","Rosslyn","07:00",1298,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"635","Rosslyn","07:15",1513,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"636","Rosslyn","07:30",1829,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"637","Rosslyn","07:45",2174,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"638","Rosslyn","08:00",2449,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"639","Rosslyn","08:15",2848,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"640","Rosslyn","08:30",2855,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"641","Rosslyn","08:45",2398,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"642","Rosslyn","09:00",2050,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"643","Rosslyn","09:15",1783,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"644","Rosslyn","09:30",1548,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"645","Rosslyn","09:45",1276,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"646","Rosslyn","10:00",1031,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"647","Rosslyn","10:15",881,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"648","Rosslyn","10:30",918,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"649","Rosslyn","10:45",858,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"650","Rosslyn","11:00",889,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"651","Rosslyn","11:15",816,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"652","Rosslyn","11:30",868,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"653","Rosslyn","11:45",899,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"654","Rosslyn","12:00",935,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"655","Rosslyn","12:15",887,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"656","Rosslyn","12:30",921,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"657","Rosslyn","12:45",845,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"658","Rosslyn","13:00",921,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"659","Rosslyn","13:15",880,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"660","Rosslyn","13:30",940,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"661","Rosslyn","13:45",1054,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"662","Rosslyn","14:00",1110,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"663","Rosslyn","14:15",935,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"664","Rosslyn","14:30",1014,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"665","Rosslyn","14:45",1070,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"666","Rosslyn","15:00",1387,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"667","Rosslyn","15:15",1437,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"668","Rosslyn","15:30",1619,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"669","Rosslyn","15:45",1658,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"670","Rosslyn","16:00",1986,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"671","Rosslyn","16:15",2007,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"672","Rosslyn","16:30",2442,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"673","Rosslyn","16:45",2462,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"674","Rosslyn","17:00",3117,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"675","Rosslyn","17:15",2907,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"676","Rosslyn","17:30",3150,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"677","Rosslyn","17:45",2851,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"678","Rosslyn","18:00",2534,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"679","Rosslyn","18:15",2006,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"680","Rosslyn","18:30",1720,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"681","Rosslyn","18:45",1445,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"682","Rosslyn","19:00",1365,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"683","Rosslyn","19:15",1003,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"684","Rosslyn","19:30",896,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"685","Rosslyn","19:45",857,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"686","Rosslyn","20:00",794,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"687","Rosslyn","20:15",656,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"688","Rosslyn","20:30",692,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"689","Rosslyn","20:45",644,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"690","Rosslyn","21:00",585,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"691","Rosslyn","21:15",574,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"692","Rosslyn","21:30",601,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"693","Rosslyn","21:45",515,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"694","Rosslyn","22:00",460,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"695","Rosslyn","22:15",425,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"696","Rosslyn","22:30",392,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"697","Rosslyn","22:45",346,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"698","Rosslyn","23:00",375,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"699","Rosslyn","23:15",297,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"700","Rosslyn","23:30",199,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"701","Rosslyn","23:45",152,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"702","Rosslyn","04:30",2,9,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"703","Foggy Bottom","04:45",0,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"704","Foggy Bottom","05:00",90,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"705","Foggy Bottom","05:15",177,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"706","Foggy Bottom","05:30",153,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"707","Foggy Bottom","05:45",188,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"708","Foggy Bottom","06:00",242,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"709","Foggy Bottom","06:15",316,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"710","Foggy Bottom","06:30",350,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"711","Foggy Bottom","06:45",464,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"712","Foggy Bottom","07:00",662,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"713","Foggy Bottom","07:15",809,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"714","Foggy Bottom","07:30",960,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"715","Foggy Bottom","07:45",1127,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"716","Foggy Bottom","08:00",1330,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"717","Foggy Bottom","08:15",1591,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"718","Foggy Bottom","08:30",1731,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"719","Foggy Bottom","08:45",1479,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"720","Foggy Bottom","09:00",1321,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"721","Foggy Bottom","09:15",1327,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"722","Foggy Bottom","09:30",1256,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"723","Foggy Bottom","09:45",1111,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"724","Foggy Bottom","10:00",1030,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"725","Foggy Bottom","10:15",1076,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"726","Foggy Bottom","10:30",1045,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"727","Foggy Bottom","10:45",1049,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"728","Foggy Bottom","11:00",1112,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"729","Foggy Bottom","11:15",1066,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"730","Foggy Bottom","11:30",1155,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"731","Foggy Bottom","11:45",1102,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"732","Foggy Bottom","12:00",1287,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"733","Foggy Bottom","12:15",1227,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"734","Foggy Bottom","12:30",1226,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"735","Foggy Bottom","12:45",1216,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"736","Foggy Bottom","13:00",1370,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"737","Foggy Bottom","13:15",1470,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"738","Foggy Bottom","13:30",1483,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"739","Foggy Bottom","13:45",1506,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"740","Foggy Bottom","14:00",1752,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"741","Foggy Bottom","14:15",1561,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"742","Foggy Bottom","14:30",1702,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"743","Foggy Bottom","14:45",1766,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"744","Foggy Bottom","15:00",1960,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"745","Foggy Bottom","15:15",2523,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"746","Foggy Bottom","15:30",2912,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"747","Foggy Bottom","15:45",2606,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"748","Foggy Bottom","16:00",3242,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"749","Foggy Bottom","16:15",3228,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"750","Foggy Bottom","16:30",3778,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"751","Foggy Bottom","16:45",3980,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"752","Foggy Bottom","17:00",5567,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"753","Foggy Bottom","17:15",5654,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"754","Foggy Bottom","17:30",5361,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"755","Foggy Bottom","17:45",4967,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"756","Foggy Bottom","18:00",4805,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"757","Foggy Bottom","18:15",3957,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"758","Foggy Bottom","18:30",3292,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"759","Foggy Bottom","18:45",2916,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"760","Foggy Bottom","19:00",3219,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"761","Foggy Bottom","19:15",2690,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"762","Foggy Bottom","19:30",2258,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"763","Foggy Bottom","19:45",1960,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"764","Foggy Bottom","20:00",2245,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"765","Foggy Bottom","20:15",1992,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"766","Foggy Bottom","20:30",1777,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"767","Foggy Bottom","20:45",1924,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"768","Foggy Bottom","21:00",1841,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"769","Foggy Bottom","21:15",1490,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"770","Foggy Bottom","21:30",1542,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"771","Foggy Bottom","21:45",1759,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"772","Foggy Bottom","22:00",1413,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"773","Foggy Bottom","22:15",1217,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"774","Foggy Bottom","22:30",920,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"775","Foggy Bottom","22:45",855,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"776","Foggy Bottom","23:00",835,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"777","Foggy Bottom","23:15",758,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"778","Foggy Bottom","23:30",648,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"779","Foggy Bottom","23:45",444,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"780","Foggy Bottom","04:30",0,10,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"781","Farragut West","04:45",1,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"782","Farragut West","05:00",25,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"783","Farragut West","05:15",105,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"784","Farragut West","05:30",124,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"785","Farragut West","05:45",127,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"786","Farragut West","06:00",182,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"787","Farragut West","06:15",196,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"788","Farragut West","06:30",243,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"789","Farragut West","06:45",321,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"790","Farragut West","07:00",366,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"791","Farragut West","07:15",477,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"792","Farragut West","07:30",575,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"793","Farragut West","07:45",666,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"794","Farragut West","08:00",862,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"795","Farragut West","08:15",922,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"796","Farragut West","08:30",994,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"797","Farragut West","08:45",919,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"798","Farragut West","09:00",859,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"799","Farragut West","09:15",863,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"800","Farragut West","09:30",776,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"801","Farragut West","09:45",739,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"802","Farragut West","10:00",709,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"803","Farragut West","10:15",718,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"804","Farragut West","10:30",723,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"805","Farragut West","10:45",721,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"806","Farragut West","11:00",772,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"807","Farragut West","11:15",835,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"808","Farragut West","11:30",880,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"809","Farragut West","11:45",920,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"810","Farragut West","12:00",1016,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"811","Farragut West","12:15",1040,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"812","Farragut West","12:30",1060,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"813","Farragut West","12:45",1010,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"814","Farragut West","13:00",1125,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"815","Farragut West","13:15",1098,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"816","Farragut West","13:30",1199,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"817","Farragut West","13:45",1121,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"818","Farragut West","14:00",1274,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"819","Farragut West","14:15",1363,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"820","Farragut West","14:30",1462,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"821","Farragut West","14:45",1514,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"822","Farragut West","15:00",1863,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"823","Farragut West","15:15",1914,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"824","Farragut West","15:30",2434,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"825","Farragut West","15:45",2418,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"826","Farragut West","16:00",3507,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"827","Farragut West","16:15",3573,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"828","Farragut West","16:30",4654,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"829","Farragut West","16:45",4839,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"830","Farragut West","17:00",7269,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"831","Farragut West","17:15",6762,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"832","Farragut West","17:30",7192,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"833","Farragut West","17:45",6226,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"834","Farragut West","18:00",6100,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"835","Farragut West","18:15",5065,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"836","Farragut West","18:30",3925,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"837","Farragut West","18:45",3047,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"838","Farragut West","19:00",3009,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"839","Farragut West","19:15",2233,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"840","Farragut West","19:30",1857,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"841","Farragut West","19:45",1544,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"842","Farragut West","20:00",1493,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"843","Farragut West","20:15",1248,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"844","Farragut West","20:30",1154,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"845","Farragut West","20:45",1073,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"846","Farragut West","21:00",1009,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"847","Farragut West","21:15",896,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"848","Farragut West","21:30",755,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"849","Farragut West","21:45",735,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"850","Farragut West","22:00",856,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"851","Farragut West","22:15",682,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"852","Farragut West","22:30",585,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"853","Farragut West","22:45",537,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"854","Farragut West","23:00",566,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"855","Farragut West","23:15",519,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"856","Farragut West","23:30",442,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"857","Farragut West","23:45",290,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"858","Farragut West","04:30",0,11,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"859","McPherson Square","04:45",0,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"860","McPherson Square","05:00",39,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"861","McPherson Square","05:15",192,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"862","McPherson Square","05:30",164,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"863","McPherson Square","05:45",170,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"864","McPherson Square","06:00",206,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"865","McPherson Square","06:15",261,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"866","McPherson Square","06:30",291,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"867","McPherson Square","06:45",342,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"868","McPherson Square","07:00",525,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"869","McPherson Square","07:15",622,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"870","McPherson Square","07:30",701,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"871","McPherson Square","07:45",852,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"872","McPherson Square","08:00",1097,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"873","McPherson Square","08:15",1234,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"874","McPherson Square","08:30",1310,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"875","McPherson Square","08:45",1104,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"876","McPherson Square","09:00",909,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"877","McPherson Square","09:15",844,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"878","McPherson Square","09:30",756,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"879","McPherson Square","09:45",674,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"880","McPherson Square","10:00",699,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"881","McPherson Square","10:15",657,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"882","McPherson Square","10:30",645,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"883","McPherson Square","10:45",679,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"884","McPherson Square","11:00",652,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"885","McPherson Square","11:15",657,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"886","McPherson Square","11:30",709,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"887","McPherson Square","11:45",733,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"888","McPherson Square","12:00",859,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"889","McPherson Square","12:15",815,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"890","McPherson Square","12:30",811,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"891","McPherson Square","12:45",803,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"892","McPherson Square","13:00",951,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"893","McPherson Square","13:15",895,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"894","McPherson Square","13:30",875,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"895","McPherson Square","13:45",868,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"896","McPherson Square","14:00",1011,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"897","McPherson Square","14:15",942,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"898","McPherson Square","14:30",1042,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"899","McPherson Square","14:45",1069,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"900","McPherson Square","15:00",1361,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"901","McPherson Square","15:15",1429,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"902","McPherson Square","15:30",1759,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"903","McPherson Square","15:45",1881,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"904","McPherson Square","16:00",2728,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"905","McPherson Square","16:15",2626,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"906","McPherson Square","16:30",3471,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"907","McPherson Square","16:45",3381,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"908","McPherson Square","17:00",5549,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"909","McPherson Square","17:15",4651,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"910","McPherson Square","17:30",4620,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"911","McPherson Square","17:45",3815,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"912","McPherson Square","18:00",3769,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"913","McPherson Square","18:15",2899,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"914","McPherson Square","18:30",2278,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"915","McPherson Square","18:45",1859,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"916","McPherson Square","19:00",1821,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"917","McPherson Square","19:15",1370,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"918","McPherson Square","19:30",1181,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"919","McPherson Square","19:45",981,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"920","McPherson Square","20:00",921,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"921","McPherson Square","20:15",854,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"922","McPherson Square","20:30",859,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"923","McPherson Square","20:45",753,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"924","McPherson Square","21:00",755,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"925","McPherson Square","21:15",669,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"926","McPherson Square","21:30",631,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"927","McPherson Square","21:45",613,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"928","McPherson Square","22:00",552,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"929","McPherson Square","22:15",504,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"930","McPherson Square","22:30",438,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"931","McPherson Square","22:45",439,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"932","McPherson Square","23:00",438,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"933","McPherson Square","23:15",389,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"934","McPherson Square","23:30",323,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"935","McPherson Square","23:45",252,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"936","McPherson Square","04:30",0,12,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"937","Metro Center","04:45",0,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"938","Metro Center","05:00",73,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"939","Metro Center","05:15",196,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"940","Metro Center","05:30",291,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"941","Metro Center","05:45",340,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"942","Metro Center","06:00",329,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"943","Metro Center","06:15",394,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"944","Metro Center","06:30",472,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"945","Metro Center","06:45",471,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"946","Metro Center","07:00",675,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"947","Metro Center","07:15",705,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"948","Metro Center","07:30",726,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"949","Metro Center","07:45",873,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"950","Metro Center","08:00",973,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"951","Metro Center","08:15",1051,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"952","Metro Center","08:30",1028,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"953","Metro Center","08:45",1094,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"954","Metro Center","09:00",876,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"955","Metro Center","09:15",833,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"956","Metro Center","09:30",845,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"957","Metro Center","09:45",757,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"958","Metro Center","10:00",764,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"959","Metro Center","10:15",826,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"960","Metro Center","10:30",903,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"961","Metro Center","10:45",838,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"962","Metro Center","11:00",978,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"963","Metro Center","11:15",977,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"964","Metro Center","11:30",1134,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"965","Metro Center","11:45",1211,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"966","Metro Center","12:00",1370,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"967","Metro Center","12:15",1322,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"968","Metro Center","12:30",1382,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"969","Metro Center","12:45",1427,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"970","Metro Center","13:00",1597,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"971","Metro Center","13:15",1546,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"972","Metro Center","13:30",1680,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"973","Metro Center","13:45",1679,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"974","Metro Center","14:00",1876,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"975","Metro Center","14:15",1714,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"976","Metro Center","14:30",1883,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"977","Metro Center","14:45",1963,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"978","Metro Center","15:00",2304,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"979","Metro Center","15:15",2328,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"980","Metro Center","15:30",2697,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"981","Metro Center","15:45",2768,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"982","Metro Center","16:00",3968,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"983","Metro Center","16:15",3880,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"984","Metro Center","16:30",5052,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"985","Metro Center","16:45",5285,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"986","Metro Center","17:00",8101,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"987","Metro Center","17:15",7455,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"988","Metro Center","17:30",8511,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"989","Metro Center","17:45",7104,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"990","Metro Center","18:00",7112,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"991","Metro Center","18:15",5871,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"992","Metro Center","18:30",4882,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"993","Metro Center","18:45",3987,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"994","Metro Center","19:00",3876,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"995","Metro Center","19:15",2986,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"996","Metro Center","19:30",2565,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"997","Metro Center","19:45",2295,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"998","Metro Center","20:00",2207,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"999","Metro Center","20:15",1892,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1000","Metro Center","20:30",1735,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1001","Metro Center","20:45",1551,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1002","Metro Center","21:00",1460,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1003","Metro Center","21:15",1387,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1004","Metro Center","21:30",1372,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1005","Metro Center","21:45",1380,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1006","Metro Center","22:00",1267,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1007","Metro Center","22:15",1086,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1008","Metro Center","22:30",1021,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1009","Metro Center","22:45",1116,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1010","Metro Center","23:00",993,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1011","Metro Center","23:15",752,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1012","Metro Center","23:30",674,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1013","Metro Center","23:45",438,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1014","Metro Center","04:30",0,13,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1015","Federal Triangle","04:45",0,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1016","Federal Triangle","05:00",0,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1017","Federal Triangle","05:15",16,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1018","Federal Triangle","05:30",35,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1019","Federal Triangle","05:45",22,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1020","Federal Triangle","06:00",42,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1021","Federal Triangle","06:15",44,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1022","Federal Triangle","06:30",84,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1023","Federal Triangle","06:45",79,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1024","Federal Triangle","07:00",123,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1025","Federal Triangle","07:15",130,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1026","Federal Triangle","07:30",156,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1027","Federal Triangle","07:45",132,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1028","Federal Triangle","08:00",170,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1029","Federal Triangle","08:15",176,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1030","Federal Triangle","08:30",190,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1031","Federal Triangle","08:45",173,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1032","Federal Triangle","09:00",241,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1033","Federal Triangle","09:15",197,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1034","Federal Triangle","09:30",252,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1035","Federal Triangle","09:45",228,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1036","Federal Triangle","10:00",283,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1037","Federal Triangle","10:15",281,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1038","Federal Triangle","10:30",285,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1039","Federal Triangle","10:45",313,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1040","Federal Triangle","11:00",414,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1041","Federal Triangle","11:15",395,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1042","Federal Triangle","11:30",485,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1043","Federal Triangle","11:45",508,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1044","Federal Triangle","12:00",650,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1045","Federal Triangle","12:15",576,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1046","Federal Triangle","12:30",568,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1047","Federal Triangle","12:45",579,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1048","Federal Triangle","13:00",635,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1049","Federal Triangle","13:15",683,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1050","Federal Triangle","13:30",650,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1051","Federal Triangle","13:45",723,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1052","Federal Triangle","14:00",865,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1053","Federal Triangle","14:15",869,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1054","Federal Triangle","14:30",976,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1055","Federal Triangle","14:45",1036,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1056","Federal Triangle","15:00",1207,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1057","Federal Triangle","15:15",1208,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1058","Federal Triangle","15:30",1524,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1059","Federal Triangle","15:45",1590,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1060","Federal Triangle","16:00",2082,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1061","Federal Triangle","16:15",2077,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1062","Federal Triangle","16:30",2552,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1063","Federal Triangle","16:45",2438,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1064","Federal Triangle","17:00",2955,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1065","Federal Triangle","17:15",2707,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1066","Federal Triangle","17:30",2813,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1067","Federal Triangle","17:45",2383,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1068","Federal Triangle","18:00",1982,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1069","Federal Triangle","18:15",1571,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1070","Federal Triangle","18:30",1205,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1071","Federal Triangle","18:45",1017,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1072","Federal Triangle","19:00",909,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1073","Federal Triangle","19:15",736,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1074","Federal Triangle","19:30",645,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1075","Federal Triangle","19:45",486,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1076","Federal Triangle","20:00",496,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1077","Federal Triangle","20:15",471,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1078","Federal Triangle","20:30",454,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1079","Federal Triangle","20:45",381,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1080","Federal Triangle","21:00",393,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1081","Federal Triangle","21:15",322,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1082","Federal Triangle","21:30",356,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1083","Federal Triangle","21:45",345,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1084","Federal Triangle","22:00",392,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1085","Federal Triangle","22:15",242,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1086","Federal Triangle","22:30",157,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1087","Federal Triangle","22:45",170,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1088","Federal Triangle","23:00",180,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1089","Federal Triangle","23:15",128,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1090","Federal Triangle","23:30",114,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1091","Federal Triangle","23:45",64,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1092","Federal Triangle","04:30",0,14,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1093","Smithsonian","04:45",2,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1094","Smithsonian","05:00",4,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1095","Smithsonian","05:15",28,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1096","Smithsonian","05:30",35,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1097","Smithsonian","05:45",79,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1098","Smithsonian","06:00",93,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1099","Smithsonian","06:15",124,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1100","Smithsonian","06:30",147,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1101","Smithsonian","06:45",163,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1102","Smithsonian","07:00",182,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1103","Smithsonian","07:15",232,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1104","Smithsonian","07:30",272,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1105","Smithsonian","07:45",218,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1106","Smithsonian","08:00",198,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1107","Smithsonian","08:15",226,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1108","Smithsonian","08:30",234,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1109","Smithsonian","08:45",245,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1110","Smithsonian","09:00",228,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1111","Smithsonian","09:15",232,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1112","Smithsonian","09:30",263,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1113","Smithsonian","09:45",234,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1114","Smithsonian","10:00",288,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1115","Smithsonian","10:15",310,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1116","Smithsonian","10:30",358,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1117","Smithsonian","10:45",381,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1118","Smithsonian","11:00",488,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1119","Smithsonian","11:15",557,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1120","Smithsonian","11:30",566,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1121","Smithsonian","11:45",662,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1122","Smithsonian","12:00",763,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1123","Smithsonian","12:15",725,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1124","Smithsonian","12:30",824,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1125","Smithsonian","12:45",771,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1126","Smithsonian","13:00",964,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1127","Smithsonian","13:15",902,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1128","Smithsonian","13:30",1009,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1129","Smithsonian","13:45",988,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1130","Smithsonian","14:00",1114,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1131","Smithsonian","14:15",1175,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1132","Smithsonian","14:30",1384,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1133","Smithsonian","14:45",1410,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1134","Smithsonian","15:00",1544,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1135","Smithsonian","15:15",1608,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1136","Smithsonian","15:30",2004,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1137","Smithsonian","15:45",2015,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1138","Smithsonian","16:00",2558,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1139","Smithsonian","16:15",2527,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1140","Smithsonian","16:30",3177,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1141","Smithsonian","16:45",2859,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1142","Smithsonian","17:00",3527,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1143","Smithsonian","17:15",3257,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1144","Smithsonian","17:30",3402,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1145","Smithsonian","17:45",2580,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1146","Smithsonian","18:00",2064,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1147","Smithsonian","18:15",1584,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1148","Smithsonian","18:30",1311,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1149","Smithsonian","18:45",1094,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1150","Smithsonian","19:00",1021,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1151","Smithsonian","19:15",856,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1152","Smithsonian","19:30",732,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1153","Smithsonian","19:45",618,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1154","Smithsonian","20:00",555,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1155","Smithsonian","20:15",595,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1156","Smithsonian","20:30",549,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1157","Smithsonian","20:45",457,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1158","Smithsonian","21:00",427,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1159","Smithsonian","21:15",340,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1160","Smithsonian","21:30",332,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1161","Smithsonian","21:45",357,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1162","Smithsonian","22:00",282,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1163","Smithsonian","22:15",217,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1164","Smithsonian","22:30",190,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1165","Smithsonian","22:45",158,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1166","Smithsonian","23:00",171,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1167","Smithsonian","23:15",122,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1168","Smithsonian","23:30",106,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1169","Smithsonian","23:45",44,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1170","Smithsonian","04:30",0,15,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1171","L'Enfant Plaza","04:45",7,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1172","L'Enfant Plaza","05:00",187,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1173","L'Enfant Plaza","05:15",231,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1174","L'Enfant Plaza","05:30",262,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1175","L'Enfant Plaza","05:45",370,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1176","L'Enfant Plaza","06:00",725,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1177","L'Enfant Plaza","06:15",828,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1178","L'Enfant Plaza","06:30",940,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1179","L'Enfant Plaza","06:45",964,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1180","L'Enfant Plaza","07:00",1155,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1181","L'Enfant Plaza","07:15",1239,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1182","L'Enfant Plaza","07:30",1317,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1183","L'Enfant Plaza","07:45",1329,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1184","L'Enfant Plaza","08:00",1158,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1185","L'Enfant Plaza","08:15",1091,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1186","L'Enfant Plaza","08:30",1386,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1187","L'Enfant Plaza","08:45",1241,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1188","L'Enfant Plaza","09:00",1034,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1189","L'Enfant Plaza","09:15",715,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1190","L'Enfant Plaza","09:30",624,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1191","L'Enfant Plaza","09:45",535,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1192","L'Enfant Plaza","10:00",557,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1193","L'Enfant Plaza","10:15",551,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1194","L'Enfant Plaza","10:30",573,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1195","L'Enfant Plaza","10:45",590,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1196","L'Enfant Plaza","11:00",758,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1197","L'Enfant Plaza","11:15",852,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1198","L'Enfant Plaza","11:30",975,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1199","L'Enfant Plaza","11:45",982,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1200","L'Enfant Plaza","12:00",1123,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1201","L'Enfant Plaza","12:15",1081,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1202","L'Enfant Plaza","12:30",1072,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1203","L'Enfant Plaza","12:45",1000,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1204","L'Enfant Plaza","13:00",1074,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1205","L'Enfant Plaza","13:15",1034,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1206","L'Enfant Plaza","13:30",1109,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1207","L'Enfant Plaza","13:45",1095,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1208","L'Enfant Plaza","14:00",1263,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1209","L'Enfant Plaza","14:15",1359,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1210","L'Enfant Plaza","14:30",1683,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1211","L'Enfant Plaza","14:45",1716,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1212","L'Enfant Plaza","15:00",2208,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1213","L'Enfant Plaza","15:15",2435,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1214","L'Enfant Plaza","15:30",3454,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1215","L'Enfant Plaza","15:45",3369,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1216","L'Enfant Plaza","16:00",4882,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1217","L'Enfant Plaza","16:15",4569,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1218","L'Enfant Plaza","16:30",6140,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1219","L'Enfant Plaza","16:45",5533,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1220","L'Enfant Plaza","17:00",7208,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1221","L'Enfant Plaza","17:15",6372,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1222","L'Enfant Plaza","17:30",6128,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1223","L'Enfant Plaza","17:45",4936,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1224","L'Enfant Plaza","18:00",4220,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1225","L'Enfant Plaza","18:15",3078,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1226","L'Enfant Plaza","18:30",2297,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1227","L'Enfant Plaza","18:45",1741,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1228","L'Enfant Plaza","19:00",1503,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1229","L'Enfant Plaza","19:15",1124,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1230","L'Enfant Plaza","19:30",895,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1231","L'Enfant Plaza","19:45",700,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1232","L'Enfant Plaza","20:00",666,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1233","L'Enfant Plaza","20:15",588,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1234","L'Enfant Plaza","20:30",561,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1235","L'Enfant Plaza","20:45",554,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1236","L'Enfant Plaza","21:00",585,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1237","L'Enfant Plaza","21:15",442,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1238","L'Enfant Plaza","21:30",446,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1239","L'Enfant Plaza","21:45",438,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1240","L'Enfant Plaza","22:00",415,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1241","L'Enfant Plaza","22:15",298,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1242","L'Enfant Plaza","22:30",313,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1243","L'Enfant Plaza","22:45",280,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1244","L'Enfant Plaza","23:00",234,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1245","L'Enfant Plaza","23:15",243,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1246","L'Enfant Plaza","23:30",149,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1247","L'Enfant Plaza","23:45",80,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1248","L'Enfant Plaza","04:30",0,16,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1249","Federal Center SW","04:45",0,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1250","Federal Center SW","05:00",20,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1251","Federal Center SW","05:15",33,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1252","Federal Center SW","05:30",44,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1253","Federal Center SW","05:45",55,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1254","Federal Center SW","06:00",85,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1255","Federal Center SW","06:15",81,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1256","Federal Center SW","06:30",103,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1257","Federal Center SW","06:45",115,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1258","Federal Center SW","07:00",173,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1259","Federal Center SW","07:15",228,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1260","Federal Center SW","07:30",283,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1261","Federal Center SW","07:45",290,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1262","Federal Center SW","08:00",349,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1263","Federal Center SW","08:15",380,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1264","Federal Center SW","08:30",403,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1265","Federal Center SW","08:45",408,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1266","Federal Center SW","09:00",301,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1267","Federal Center SW","09:15",306,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1268","Federal Center SW","09:30",290,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1269","Federal Center SW","09:45",257,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1270","Federal Center SW","10:00",269,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1271","Federal Center SW","10:15",267,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1272","Federal Center SW","10:30",303,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1273","Federal Center SW","10:45",263,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1274","Federal Center SW","11:00",341,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1275","Federal Center SW","11:15",337,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1276","Federal Center SW","11:30",396,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1277","Federal Center SW","11:45",381,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1278","Federal Center SW","12:00",524,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1279","Federal Center SW","12:15",444,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1280","Federal Center SW","12:30",419,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1281","Federal Center SW","12:45",402,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1282","Federal Center SW","13:00",473,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1283","Federal Center SW","13:15",423,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1284","Federal Center SW","13:30",427,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1285","Federal Center SW","13:45",486,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1286","Federal Center SW","14:00",565,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1287","Federal Center SW","14:15",570,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1288","Federal Center SW","14:30",665,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1289","Federal Center SW","14:45",629,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1290","Federal Center SW","15:00",762,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1291","Federal Center SW","15:15",821,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1292","Federal Center SW","15:30",1006,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1293","Federal Center SW","15:45",1009,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1294","Federal Center SW","16:00",1363,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1295","Federal Center SW","16:15",1311,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1296","Federal Center SW","16:30",1633,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1297","Federal Center SW","16:45",1520,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1298","Federal Center SW","17:00",1936,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1299","Federal Center SW","17:15",1763,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1300","Federal Center SW","17:30",1696,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1301","Federal Center SW","17:45",1375,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1302","Federal Center SW","18:00",1409,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1303","Federal Center SW","18:15",1139,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1304","Federal Center SW","18:30",887,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1305","Federal Center SW","18:45",708,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1306","Federal Center SW","19:00",610,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1307","Federal Center SW","19:15",480,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1308","Federal Center SW","19:30",453,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1309","Federal Center SW","19:45",350,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1310","Federal Center SW","20:00",343,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1311","Federal Center SW","20:15",276,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1312","Federal Center SW","20:30",191,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1313","Federal Center SW","20:45",183,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1314","Federal Center SW","21:00",177,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1315","Federal Center SW","21:15",159,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1316","Federal Center SW","21:30",145,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1317","Federal Center SW","21:45",120,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1318","Federal Center SW","22:00",116,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1319","Federal Center SW","22:15",99,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1320","Federal Center SW","22:30",94,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1321","Federal Center SW","22:45",79,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1322","Federal Center SW","23:00",74,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1323","Federal Center SW","23:15",49,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1324","Federal Center SW","23:30",48,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1325","Federal Center SW","23:45",34,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1326","Federal Center SW","04:30",0,17,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1327","Capitol South","04:45",4,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1328","Capitol South","05:00",20,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1329","Capitol South","05:15",24,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1330","Capitol South","05:30",56,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1331","Capitol South","05:45",68,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1332","Capitol South","06:00",93,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1333","Capitol South","06:15",102,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1334","Capitol South","06:30",158,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1335","Capitol South","06:45",208,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1336","Capitol South","07:00",303,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1337","Capitol South","07:15",362,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1338","Capitol South","07:30",444,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1339","Capitol South","07:45",494,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1340","Capitol South","08:00",606,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1341","Capitol South","08:15",727,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1342","Capitol South","08:30",880,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1343","Capitol South","08:45",752,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1344","Capitol South","09:00",593,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1345","Capitol South","09:15",545,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1346","Capitol South","09:30",460,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1347","Capitol South","09:45",390,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1348","Capitol South","10:00",349,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1349","Capitol South","10:15",431,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1350","Capitol South","10:30",446,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1351","Capitol South","10:45",389,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1352","Capitol South","11:00",503,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1353","Capitol South","11:15",509,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1354","Capitol South","11:30",564,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1355","Capitol South","11:45",572,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1356","Capitol South","12:00",681,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1357","Capitol South","12:15",603,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1358","Capitol South","12:30",662,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1359","Capitol South","12:45",578,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1360","Capitol South","13:00",749,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1361","Capitol South","13:15",731,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1362","Capitol South","13:30",788,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1363","Capitol South","13:45",677,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1364","Capitol South","14:00",767,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1365","Capitol South","14:15",817,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1366","Capitol South","14:30",833,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1367","Capitol South","14:45",837,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1368","Capitol South","15:00",1062,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1369","Capitol South","15:15",1010,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1370","Capitol South","15:30",1128,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1371","Capitol South","15:45",1119,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1372","Capitol South","16:00",1325,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1373","Capitol South","16:15",1289,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1374","Capitol South","16:30",1533,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1375","Capitol South","16:45",1529,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1376","Capitol South","17:00",2349,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1377","Capitol South","17:15",1876,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1378","Capitol South","17:30",1798,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1379","Capitol South","17:45",1559,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1380","Capitol South","18:00",2295,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1381","Capitol South","18:15",1710,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1382","Capitol South","18:30",1243,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1383","Capitol South","18:45",989,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1384","Capitol South","19:00",888,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1385","Capitol South","19:15",773,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1386","Capitol South","19:30",657,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1387","Capitol South","19:45",615,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1388","Capitol South","20:00",595,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1389","Capitol South","20:15",484,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1390","Capitol South","20:30",415,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1391","Capitol South","20:45",392,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1392","Capitol South","21:00",404,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1393","Capitol South","21:15",407,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1394","Capitol South","21:30",343,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1395","Capitol South","21:45",337,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1396","Capitol South","22:00",315,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1397","Capitol South","22:15",348,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1398","Capitol South","22:30",276,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1399","Capitol South","22:45",177,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1400","Capitol South","23:00",160,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1401","Capitol South","23:15",124,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1402","Capitol South","23:30",126,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1403","Capitol South","23:45",89,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1404","Capitol South","04:30",1,18,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1405","Eastern Market","04:45",7,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1406","Eastern Market","05:00",132,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1407","Eastern Market","05:15",157,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1408","Eastern Market","05:30",127,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1409","Eastern Market","05:45",165,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1410","Eastern Market","06:00",217,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1411","Eastern Market","06:15",288,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1412","Eastern Market","06:30",386,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1413","Eastern Market","06:45",462,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1414","Eastern Market","07:00",616,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1415","Eastern Market","07:15",739,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1416","Eastern Market","07:30",927,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1417","Eastern Market","07:45",1096,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1418","Eastern Market","08:00",1386,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1419","Eastern Market","08:15",1546,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1420","Eastern Market","08:30",1733,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1421","Eastern Market","08:45",1566,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1422","Eastern Market","09:00",1219,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1423","Eastern Market","09:15",975,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1424","Eastern Market","09:30",760,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1425","Eastern Market","09:45",637,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1426","Eastern Market","10:00",570,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1427","Eastern Market","10:15",514,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1428","Eastern Market","10:30",544,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1429","Eastern Market","10:45",490,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1430","Eastern Market","11:00",485,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1431","Eastern Market","11:15",475,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1432","Eastern Market","11:30",470,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1433","Eastern Market","11:45",451,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1434","Eastern Market","12:00",524,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1435","Eastern Market","12:15",532,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1436","Eastern Market","12:30",525,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1437","Eastern Market","12:45",526,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1438","Eastern Market","13:00",547,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1439","Eastern Market","13:15",544,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1440","Eastern Market","13:30",531,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1441","Eastern Market","13:45",493,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1442","Eastern Market","14:00",550,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1443","Eastern Market","14:15",536,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1444","Eastern Market","14:30",548,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1445","Eastern Market","14:45",586,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1446","Eastern Market","15:00",579,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1447","Eastern Market","15:15",612,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1448","Eastern Market","15:30",648,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1449","Eastern Market","15:45",663,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1450","Eastern Market","16:00",674,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1451","Eastern Market","16:15",698,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1452","Eastern Market","16:30",857,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1453","Eastern Market","16:45",770,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1454","Eastern Market","17:00",902,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1455","Eastern Market","17:15",864,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1456","Eastern Market","17:30",779,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1457","Eastern Market","17:45",791,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1458","Eastern Market","18:00",808,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1459","Eastern Market","18:15",740,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1460","Eastern Market","18:30",688,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1461","Eastern Market","18:45",637,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1462","Eastern Market","19:00",662,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1463","Eastern Market","19:15",576,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1464","Eastern Market","19:30",559,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1465","Eastern Market","19:45",571,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1466","Eastern Market","20:00",542,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1467","Eastern Market","20:15",503,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1468","Eastern Market","20:30",463,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1469","Eastern Market","20:45",460,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1470","Eastern Market","21:00",522,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1471","Eastern Market","21:15",442,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1472","Eastern Market","21:30",421,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1473","Eastern Market","21:45",393,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1474","Eastern Market","22:00",393,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1475","Eastern Market","22:15",390,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1476","Eastern Market","22:30",370,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1477","Eastern Market","22:45",296,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1478","Eastern Market","23:00",313,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1479","Eastern Market","23:15",259,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1480","Eastern Market","23:30",240,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1481","Eastern Market","23:45",126,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1482","Eastern Market","04:30",0,19,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1483","Potomac Avenue","04:45",60,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1484","Potomac Avenue","05:00",234,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1485","Potomac Avenue","05:15",344,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1486","Potomac Avenue","05:30",234,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1487","Potomac Avenue","05:45",379,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1488","Potomac Avenue","06:00",347,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1489","Potomac Avenue","06:15",502,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1490","Potomac Avenue","06:30",575,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1491","Potomac Avenue","06:45",630,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1492","Potomac Avenue","07:00",756,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1493","Potomac Avenue","07:15",924,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1494","Potomac Avenue","07:30",968,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1495","Potomac Avenue","07:45",1138,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1496","Potomac Avenue","08:00",1265,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1497","Potomac Avenue","08:15",1397,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1498","Potomac Avenue","08:30",1387,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1499","Potomac Avenue","08:45",1127,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1500","Potomac Avenue","09:00",927,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1501","Potomac Avenue","09:15",747,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1502","Potomac Avenue","09:30",645,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1503","Potomac Avenue","09:45",494,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1504","Potomac Avenue","10:00",445,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1505","Potomac Avenue","10:15",455,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1506","Potomac Avenue","10:30",426,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1507","Potomac Avenue","10:45",369,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1508","Potomac Avenue","11:00",408,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1509","Potomac Avenue","11:15",392,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1510","Potomac Avenue","11:30",426,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1511","Potomac Avenue","11:45",383,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1512","Potomac Avenue","12:00",375,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1513","Potomac Avenue","12:15",365,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1514","Potomac Avenue","12:30",376,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1515","Potomac Avenue","12:45",381,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1516","Potomac Avenue","13:00",352,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1517","Potomac Avenue","13:15",395,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1518","Potomac Avenue","13:30",389,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1519","Potomac Avenue","13:45",382,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1520","Potomac Avenue","14:00",346,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1521","Potomac Avenue","14:15",355,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1522","Potomac Avenue","14:30",359,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1523","Potomac Avenue","14:45",291,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1524","Potomac Avenue","15:00",351,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1525","Potomac Avenue","15:15",359,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1526","Potomac Avenue","15:30",367,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1527","Potomac Avenue","15:45",358,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1528","Potomac Avenue","16:00",387,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1529","Potomac Avenue","16:15",389,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1530","Potomac Avenue","16:30",395,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1531","Potomac Avenue","16:45",374,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1532","Potomac Avenue","17:00",420,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1533","Potomac Avenue","17:15",392,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1534","Potomac Avenue","17:30",398,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1535","Potomac Avenue","17:45",413,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1536","Potomac Avenue","18:00",422,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1537","Potomac Avenue","18:15",376,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1538","Potomac Avenue","18:30",354,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1539","Potomac Avenue","18:45",325,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1540","Potomac Avenue","19:00",316,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1541","Potomac Avenue","19:15",287,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1542","Potomac Avenue","19:30",218,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1543","Potomac Avenue","19:45",227,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1544","Potomac Avenue","20:00",236,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1545","Potomac Avenue","20:15",186,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1546","Potomac Avenue","20:30",188,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1547","Potomac Avenue","20:45",192,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1548","Potomac Avenue","21:00",226,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1549","Potomac Avenue","21:15",193,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1550","Potomac Avenue","21:30",176,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1551","Potomac Avenue","21:45",161,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1552","Potomac Avenue","22:00",142,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1553","Potomac Avenue","22:15",155,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1554","Potomac Avenue","22:30",125,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1555","Potomac Avenue","22:45",112,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1556","Potomac Avenue","23:00",89,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1557","Potomac Avenue","23:15",83,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1558","Potomac Avenue","23:30",43,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1559","Potomac Avenue","23:45",38,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1560","Potomac Avenue","04:30",0,20,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1561","Stadium-Armory","04:45",32,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1562","Stadium-Armory","05:00",129,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1563","Stadium-Armory","05:15",99,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1564","Stadium-Armory","05:30",119,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1565","Stadium-Armory","05:45",154,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1566","Stadium-Armory","06:00",222,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1567","Stadium-Armory","06:15",264,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1568","Stadium-Armory","06:30",250,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1569","Stadium-Armory","06:45",299,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1570","Stadium-Armory","07:00",375,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1571","Stadium-Armory","07:15",452,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1572","Stadium-Armory","07:30",503,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1573","Stadium-Armory","07:45",571,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1574","Stadium-Armory","08:00",660,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1575","Stadium-Armory","08:15",685,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1576","Stadium-Armory","08:30",663,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1577","Stadium-Armory","08:45",624,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1578","Stadium-Armory","09:00",526,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1579","Stadium-Armory","09:15",434,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1580","Stadium-Armory","09:30",406,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1581","Stadium-Armory","09:45",362,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1582","Stadium-Armory","10:00",451,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1583","Stadium-Armory","10:15",353,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1584","Stadium-Armory","10:30",458,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1585","Stadium-Armory","10:45",341,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1586","Stadium-Armory","11:00",370,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1587","Stadium-Armory","11:15",332,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1588","Stadium-Armory","11:30",332,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1589","Stadium-Armory","11:45",349,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1590","Stadium-Armory","12:00",310,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1591","Stadium-Armory","12:15",354,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1592","Stadium-Armory","12:30",376,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1593","Stadium-Armory","12:45",362,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1594","Stadium-Armory","13:00",349,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1595","Stadium-Armory","13:15",322,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1596","Stadium-Armory","13:30",301,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1597","Stadium-Armory","13:45",318,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1598","Stadium-Armory","14:00",319,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1599","Stadium-Armory","14:15",290,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1600","Stadium-Armory","14:30",307,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1601","Stadium-Armory","14:45",319,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1602","Stadium-Armory","15:00",351,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1603","Stadium-Armory","15:15",412,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1604","Stadium-Armory","15:30",435,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1605","Stadium-Armory","15:45",414,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1606","Stadium-Armory","16:00",354,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1607","Stadium-Armory","16:15",340,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1608","Stadium-Armory","16:30",402,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1609","Stadium-Armory","16:45",359,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1610","Stadium-Armory","17:00",434,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1611","Stadium-Armory","17:15",408,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1612","Stadium-Armory","17:30",384,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1613","Stadium-Armory","17:45",467,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1614","Stadium-Armory","18:00",444,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1615","Stadium-Armory","18:15",284,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1616","Stadium-Armory","18:30",261,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1617","Stadium-Armory","18:45",237,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1618","Stadium-Armory","19:00",222,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1619","Stadium-Armory","19:15",201,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1620","Stadium-Armory","19:30",225,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1621","Stadium-Armory","19:45",205,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1622","Stadium-Armory","20:00",236,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1623","Stadium-Armory","20:15",247,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1624","Stadium-Armory","20:30",224,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1625","Stadium-Armory","20:45",304,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1626","Stadium-Armory","21:00",1005,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1627","Stadium-Armory","21:15",732,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1628","Stadium-Armory","21:30",783,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1629","Stadium-Armory","21:45",574,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1630","Stadium-Armory","22:00",232,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1631","Stadium-Armory","22:15",155,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1632","Stadium-Armory","22:30",109,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1633","Stadium-Armory","22:45",109,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1634","Stadium-Armory","23:00",89,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1635","Stadium-Armory","23:15",70,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1636","Stadium-Armory","23:30",48,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1637","Stadium-Armory","23:45",55,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1638","Stadium-Armory","04:30",0,21,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1639","Minnesota Avenue","04:45",161,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1640","Minnesota Avenue","05:00",271,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1641","Minnesota Avenue","05:15",201,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1642","Minnesota Avenue","05:30",269,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1643","Minnesota Avenue","05:45",275,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1644","Minnesota Avenue","06:00",363,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1645","Minnesota Avenue","06:15",377,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1646","Minnesota Avenue","06:30",416,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1647","Minnesota Avenue","06:45",526,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1648","Minnesota Avenue","07:00",551,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1649","Minnesota Avenue","07:15",570,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1650","Minnesota Avenue","07:30",560,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1651","Minnesota Avenue","07:45",549,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1652","Minnesota Avenue","08:00",537,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1653","Minnesota Avenue","08:15",529,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1654","Minnesota Avenue","08:30",532,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1655","Minnesota Avenue","08:45",489,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1656","Minnesota Avenue","09:00",480,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1657","Minnesota Avenue","09:15",420,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1658","Minnesota Avenue","09:30",456,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1659","Minnesota Avenue","09:45",354,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1660","Minnesota Avenue","10:00",408,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1661","Minnesota Avenue","10:15",339,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1662","Minnesota Avenue","10:30",342,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1663","Minnesota Avenue","10:45",325,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1664","Minnesota Avenue","11:00",331,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1665","Minnesota Avenue","11:15",299,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1666","Minnesota Avenue","11:30",299,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1667","Minnesota Avenue","11:45",317,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1668","Minnesota Avenue","12:00",317,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1669","Minnesota Avenue","12:15",318,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1670","Minnesota Avenue","12:30",310,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1671","Minnesota Avenue","12:45",310,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1672","Minnesota Avenue","13:00",340,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1673","Minnesota Avenue","13:15",330,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1674","Minnesota Avenue","13:30",325,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1675","Minnesota Avenue","13:45",298,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1676","Minnesota Avenue","14:00",347,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1677","Minnesota Avenue","14:15",302,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1678","Minnesota Avenue","14:30",325,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1679","Minnesota Avenue","14:45",283,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1680","Minnesota Avenue","15:00",338,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1681","Minnesota Avenue","15:15",362,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1682","Minnesota Avenue","15:30",424,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1683","Minnesota Avenue","15:45",440,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1684","Minnesota Avenue","16:00",430,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1685","Minnesota Avenue","16:15",382,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1686","Minnesota Avenue","16:30",442,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1687","Minnesota Avenue","16:45",401,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1688","Minnesota Avenue","17:00",466,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1689","Minnesota Avenue","17:15",356,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1690","Minnesota Avenue","17:30",361,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1691","Minnesota Avenue","17:45",307,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1692","Minnesota Avenue","18:00",306,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1693","Minnesota Avenue","18:15",306,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1694","Minnesota Avenue","18:30",272,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1695","Minnesota Avenue","18:45",230,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1696","Minnesota Avenue","19:00",243,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1697","Minnesota Avenue","19:15",221,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1698","Minnesota Avenue","19:30",201,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1699","Minnesota Avenue","19:45",185,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1700","Minnesota Avenue","20:00",174,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1701","Minnesota Avenue","20:15",187,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1702","Minnesota Avenue","20:30",151,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1703","Minnesota Avenue","20:45",124,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1704","Minnesota Avenue","21:00",114,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1705","Minnesota Avenue","21:15",104,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1706","Minnesota Avenue","21:30",112,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1707","Minnesota Avenue","21:45",91,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1708","Minnesota Avenue","22:00",103,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1709","Minnesota Avenue","22:15",92,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1710","Minnesota Avenue","22:30",75,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1711","Minnesota Avenue","22:45",83,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1712","Minnesota Avenue","23:00",89,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1713","Minnesota Avenue","23:15",56,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1714","Minnesota Avenue","23:30",30,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1715","Minnesota Avenue","23:45",31,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1716","Minnesota Avenue","04:30",0,22,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1717","Deanwood","04:45",130,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1718","Deanwood","05:00",207,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1719","Deanwood","05:15",159,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1720","Deanwood","05:30",179,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1721","Deanwood","05:45",263,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1722","Deanwood","06:00",269,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1723","Deanwood","06:15",338,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1724","Deanwood","06:30",331,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1725","Deanwood","06:45",431,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1726","Deanwood","07:00",486,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1727","Deanwood","07:15",543,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1728","Deanwood","07:30",478,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1729","Deanwood","07:45",483,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1730","Deanwood","08:00",443,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1731","Deanwood","08:15",397,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1732","Deanwood","08:30",368,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1733","Deanwood","08:45",314,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1734","Deanwood","09:00",280,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1735","Deanwood","09:15",275,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1736","Deanwood","09:30",258,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1737","Deanwood","09:45",210,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1738","Deanwood","10:00",218,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1739","Deanwood","10:15",201,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1740","Deanwood","10:30",214,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1741","Deanwood","10:45",172,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1742","Deanwood","11:00",170,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1743","Deanwood","11:15",216,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1744","Deanwood","11:30",188,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1745","Deanwood","11:45",170,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1746","Deanwood","12:00",185,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1747","Deanwood","12:15",185,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1748","Deanwood","12:30",212,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1749","Deanwood","12:45",184,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1750","Deanwood","13:00",198,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1751","Deanwood","13:15",186,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1752","Deanwood","13:30",188,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1753","Deanwood","13:45",197,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1754","Deanwood","14:00",196,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1755","Deanwood","14:15",210,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1756","Deanwood","14:30",182,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1757","Deanwood","14:45",167,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1758","Deanwood","15:00",169,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1759","Deanwood","15:15",156,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1760","Deanwood","15:30",198,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1761","Deanwood","15:45",181,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1762","Deanwood","16:00",220,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1763","Deanwood","16:15",181,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1764","Deanwood","16:30",181,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1765","Deanwood","16:45",144,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1766","Deanwood","17:00",201,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1767","Deanwood","17:15",193,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1768","Deanwood","17:30",176,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1769","Deanwood","17:45",165,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1770","Deanwood","18:00",169,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1771","Deanwood","18:15",143,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1772","Deanwood","18:30",142,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1773","Deanwood","18:45",111,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1774","Deanwood","19:00",117,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1775","Deanwood","19:15",111,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1776","Deanwood","19:30",85,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1777","Deanwood","19:45",109,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1778","Deanwood","20:00",102,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1779","Deanwood","20:15",83,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1780","Deanwood","20:30",96,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1781","Deanwood","20:45",86,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1782","Deanwood","21:00",83,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1783","Deanwood","21:15",76,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1784","Deanwood","21:30",62,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1785","Deanwood","21:45",46,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1786","Deanwood","22:00",70,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1787","Deanwood","22:15",49,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1788","Deanwood","22:30",38,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1789","Deanwood","22:45",25,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1790","Deanwood","23:00",26,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1791","Deanwood","23:15",26,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1792","Deanwood","23:30",19,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1793","Deanwood","23:45",10,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1794","Deanwood","04:30",1,23,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1795","Cheverly","04:45",93,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1796","Cheverly","05:00",158,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1797","Cheverly","05:15",125,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1798","Cheverly","05:30",132,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1799","Cheverly","05:45",149,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1800","Cheverly","06:00",273,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1801","Cheverly","06:15",343,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1802","Cheverly","06:30",336,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1803","Cheverly","06:45",447,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1804","Cheverly","07:00",387,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1805","Cheverly","07:15",456,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1806","Cheverly","07:30",541,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1807","Cheverly","07:45",478,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1808","Cheverly","08:00",515,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1809","Cheverly","08:15",493,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1810","Cheverly","08:30",414,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1811","Cheverly","08:45",344,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1812","Cheverly","09:00",297,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1813","Cheverly","09:15",263,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1814","Cheverly","09:30",222,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1815","Cheverly","09:45",204,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1816","Cheverly","10:00",162,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1817","Cheverly","10:15",177,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1818","Cheverly","10:30",139,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1819","Cheverly","10:45",142,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1820","Cheverly","11:00",134,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1821","Cheverly","11:15",135,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1822","Cheverly","11:30",130,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1823","Cheverly","11:45",117,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1824","Cheverly","12:00",115,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1825","Cheverly","12:15",159,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1826","Cheverly","12:30",122,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1827","Cheverly","12:45",95,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1828","Cheverly","13:00",110,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1829","Cheverly","13:15",140,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1830","Cheverly","13:30",118,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1831","Cheverly","13:45",91,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1832","Cheverly","14:00",104,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1833","Cheverly","14:15",128,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1834","Cheverly","14:30",111,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1835","Cheverly","14:45",123,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1836","Cheverly","15:00",111,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1837","Cheverly","15:15",131,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1838","Cheverly","15:30",154,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1839","Cheverly","15:45",133,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1840","Cheverly","16:00",143,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1841","Cheverly","16:15",146,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1842","Cheverly","16:30",128,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1843","Cheverly","16:45",149,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1844","Cheverly","17:00",147,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1845","Cheverly","17:15",148,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1846","Cheverly","17:30",144,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1847","Cheverly","17:45",124,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1848","Cheverly","18:00",96,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1849","Cheverly","18:15",117,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1850","Cheverly","18:30",74,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1851","Cheverly","18:45",69,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1852","Cheverly","19:00",81,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1853","Cheverly","19:15",74,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1854","Cheverly","19:30",76,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1855","Cheverly","19:45",54,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1856","Cheverly","20:00",58,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1857","Cheverly","20:15",52,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1858","Cheverly","20:30",63,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1859","Cheverly","20:45",47,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1860","Cheverly","21:00",42,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1861","Cheverly","21:15",34,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1862","Cheverly","21:30",53,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1863","Cheverly","21:45",35,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1864","Cheverly","22:00",49,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1865","Cheverly","22:15",29,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1866","Cheverly","22:30",42,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1867","Cheverly","22:45",21,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1868","Cheverly","23:00",20,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1869","Cheverly","23:15",18,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1870","Cheverly","23:30",14,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1871","Cheverly","23:45",3,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1872","Cheverly","04:30",2,24,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1873","Landover","04:45",233,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1874","Landover","05:00",194,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1875","Landover","05:15",279,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1876","Landover","05:30",293,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1877","Landover","05:45",308,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1878","Landover","06:00",353,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1879","Landover","06:15",423,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1880","Landover","06:30",542,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1881","Landover","06:45",554,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1882","Landover","07:00",556,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1883","Landover","07:15",670,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1884","Landover","07:30",656,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1885","Landover","07:45",587,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1886","Landover","08:00",657,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1887","Landover","08:15",540,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1888","Landover","08:30",443,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1889","Landover","08:45",454,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1890","Landover","09:00",352,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1891","Landover","09:15",295,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1892","Landover","09:30",296,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1893","Landover","09:45",271,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1894","Landover","10:00",181,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1895","Landover","10:15",243,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1896","Landover","10:30",172,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1897","Landover","10:45",211,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1898","Landover","11:00",190,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1899","Landover","11:15",176,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1900","Landover","11:30",164,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1901","Landover","11:45",149,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1902","Landover","12:00",165,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1903","Landover","12:15",164,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1904","Landover","12:30",189,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1905","Landover","12:45",153,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1906","Landover","13:00",168,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1907","Landover","13:15",183,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1908","Landover","13:30",196,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1909","Landover","13:45",181,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1910","Landover","14:00",183,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1911","Landover","14:15",184,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1912","Landover","14:30",203,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1913","Landover","14:45",162,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1914","Landover","15:00",174,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1915","Landover","15:15",156,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1916","Landover","15:30",194,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1917","Landover","15:45",158,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1918","Landover","16:00",194,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1919","Landover","16:15",184,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1920","Landover","16:30",195,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1921","Landover","16:45",150,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1922","Landover","17:00",145,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1923","Landover","17:15",114,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1924","Landover","17:30",149,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1925","Landover","17:45",129,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1926","Landover","18:00",115,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1927","Landover","18:15",104,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1928","Landover","18:30",107,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1929","Landover","18:45",82,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1930","Landover","19:00",78,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1931","Landover","19:15",85,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1932","Landover","19:30",79,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1933","Landover","19:45",57,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1934","Landover","20:00",71,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1935","Landover","20:15",84,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1936","Landover","20:30",81,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1937","Landover","20:45",104,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1938","Landover","21:00",82,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1939","Landover","21:15",59,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1940","Landover","21:30",66,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1941","Landover","21:45",72,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1942","Landover","22:00",64,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1943","Landover","22:15",42,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1944","Landover","22:30",64,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1945","Landover","22:45",46,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1946","Landover","23:00",47,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1947","Landover","23:15",33,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1948","Landover","23:30",12,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1949","Landover","23:45",9,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1950","Landover","04:30",6,25,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1951","New Carrollton","04:45",704,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1952","New Carrollton","05:00",542,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1953","New Carrollton","05:15",623,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1954","New Carrollton","05:30",832,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1955","New Carrollton","05:45",1003,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1956","New Carrollton","06:00",1291,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1957","New Carrollton","06:15",1544,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1958","New Carrollton","06:30",1648,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1959","New Carrollton","06:45",2114,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1960","New Carrollton","07:00",1935,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1961","New Carrollton","07:15",2230,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1962","New Carrollton","07:30",2281,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1963","New Carrollton","07:45",2227,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1964","New Carrollton","08:00",2212,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1965","New Carrollton","08:15",1885,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1966","New Carrollton","08:30",1539,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1967","New Carrollton","08:45",1303,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1968","New Carrollton","09:00",1115,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1969","New Carrollton","09:15",831,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1970","New Carrollton","09:30",800,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1971","New Carrollton","09:45",716,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1972","New Carrollton","10:00",657,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1973","New Carrollton","10:15",601,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1974","New Carrollton","10:30",518,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1975","New Carrollton","10:45",514,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1976","New Carrollton","11:00",523,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1977","New Carrollton","11:15",520,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1978","New Carrollton","11:30",545,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1979","New Carrollton","11:45",499,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1980","New Carrollton","12:00",408,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1981","New Carrollton","12:15",442,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1982","New Carrollton","12:30",476,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1983","New Carrollton","12:45",563,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1984","New Carrollton","13:00",468,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1985","New Carrollton","13:15",447,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1986","New Carrollton","13:30",413,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1987","New Carrollton","13:45",426,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1988","New Carrollton","14:00",438,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1989","New Carrollton","14:15",398,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1990","New Carrollton","14:30",433,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1991","New Carrollton","14:45",481,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1992","New Carrollton","15:00",383,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1993","New Carrollton","15:15",537,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1994","New Carrollton","15:30",480,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1995","New Carrollton","15:45",538,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1996","New Carrollton","16:00",562,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1997","New Carrollton","16:15",515,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1998","New Carrollton","16:30",597,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"1999","New Carrollton","16:45",556,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2000","New Carrollton","17:00",610,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2001","New Carrollton","17:15",562,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2002","New Carrollton","17:30",571,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2003","New Carrollton","17:45",475,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2004","New Carrollton","18:00",560,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2005","New Carrollton","18:15",411,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2006","New Carrollton","18:30",360,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2007","New Carrollton","18:45",341,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2008","New Carrollton","19:00",350,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2009","New Carrollton","19:15",298,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2010","New Carrollton","19:30",287,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2011","New Carrollton","19:45",268,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2012","New Carrollton","20:00",271,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2013","New Carrollton","20:15",231,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2014","New Carrollton","20:30",247,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2015","New Carrollton","20:45",237,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2016","New Carrollton","21:00",202,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2017","New Carrollton","21:15",178,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2018","New Carrollton","21:30",178,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2019","New Carrollton","21:45",206,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2020","New Carrollton","22:00",195,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2021","New Carrollton","22:15",154,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2022","New Carrollton","22:30",150,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2023","New Carrollton","22:45",133,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2024","New Carrollton","23:00",126,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2025","New Carrollton","23:15",69,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2026","New Carrollton","23:30",45,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2027","New Carrollton","23:45",21,26,"Orange","#DC8622","#fbf2e8",8.5,22.5
+"2028","New Carrollton","04:30",112,26,"Orange","#DC8622","#fbf2e8",8.5,22.5

@@ -1,0 +1,1639 @@
+"","Station","Time","Entrances","Order","line","color1","color2","start","finish"
+"1","Greenbelt","04:45",443,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"2","Greenbelt","05:00",316,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"3","Greenbelt","05:15",403,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"4","Greenbelt","05:30",670,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"5","Greenbelt","05:45",783,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"6","Greenbelt","06:00",946,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"7","Greenbelt","06:15",1076,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"8","Greenbelt","06:30",1223,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"9","Greenbelt","06:45",1668,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"10","Greenbelt","07:00",1682,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"11","Greenbelt","07:15",2154,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"12","Greenbelt","07:30",1865,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"13","Greenbelt","07:45",1903,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"14","Greenbelt","08:00",1814,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"15","Greenbelt","08:15",1834,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"16","Greenbelt","08:30",1462,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"17","Greenbelt","08:45",1245,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"18","Greenbelt","09:00",1101,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"19","Greenbelt","09:15",999,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"20","Greenbelt","09:30",805,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"21","Greenbelt","09:45",660,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"22","Greenbelt","10:00",663,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"23","Greenbelt","10:15",654,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"24","Greenbelt","10:30",498,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"25","Greenbelt","10:45",503,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"26","Greenbelt","11:00",544,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"27","Greenbelt","11:15",524,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"28","Greenbelt","11:30",414,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"29","Greenbelt","11:45",386,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"30","Greenbelt","12:00",454,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"31","Greenbelt","12:15",534,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"32","Greenbelt","12:30",338,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"33","Greenbelt","12:45",383,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"34","Greenbelt","13:00",409,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"35","Greenbelt","13:15",429,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"36","Greenbelt","13:30",355,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"37","Greenbelt","13:45",314,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"38","Greenbelt","14:00",374,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"39","Greenbelt","14:15",439,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"40","Greenbelt","14:30",292,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"41","Greenbelt","14:45",405,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"42","Greenbelt","15:00",354,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"43","Greenbelt","15:15",394,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"44","Greenbelt","15:30",398,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"45","Greenbelt","15:45",359,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"46","Greenbelt","16:00",428,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"47","Greenbelt","16:15",425,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"48","Greenbelt","16:30",452,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"49","Greenbelt","16:45",490,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"50","Greenbelt","17:00",459,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"51","Greenbelt","17:15",491,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"52","Greenbelt","17:30",553,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"53","Greenbelt","17:45",527,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"54","Greenbelt","18:00",447,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"55","Greenbelt","18:15",487,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"56","Greenbelt","18:30",367,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"57","Greenbelt","18:45",353,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"58","Greenbelt","19:00",386,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"59","Greenbelt","19:15",295,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"60","Greenbelt","19:30",334,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"61","Greenbelt","19:45",285,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"62","Greenbelt","20:00",293,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"63","Greenbelt","20:15",217,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"64","Greenbelt","20:30",204,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"65","Greenbelt","20:45",278,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"66","Greenbelt","21:00",190,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"67","Greenbelt","21:15",169,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"68","Greenbelt","21:30",262,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"69","Greenbelt","21:45",127,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"70","Greenbelt","22:00",176,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"71","Greenbelt","22:15",216,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"72","Greenbelt","22:30",142,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"73","Greenbelt","22:45",153,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"74","Greenbelt","23:00",117,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"75","Greenbelt","23:15",125,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"76","Greenbelt","23:30",29,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"77","Greenbelt","23:45",16,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"78","Greenbelt","04:30",101,1,"Green","#19AF56","#e8f7ee",3.5,16.5
+"79","College Park-U of MD","04:45",147,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"80","College Park-U of MD","05:00",121,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"81","College Park-U of MD","05:15",219,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"82","College Park-U of MD","05:30",295,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"83","College Park-U of MD","05:45",319,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"84","College Park-U of MD","06:00",424,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"85","College Park-U of MD","06:15",419,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"86","College Park-U of MD","06:30",493,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"87","College Park-U of MD","06:45",616,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"88","College Park-U of MD","07:00",745,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"89","College Park-U of MD","07:15",894,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"90","College Park-U of MD","07:30",946,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"91","College Park-U of MD","07:45",1005,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"92","College Park-U of MD","08:00",1175,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"93","College Park-U of MD","08:15",1133,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"94","College Park-U of MD","08:30",946,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"95","College Park-U of MD","08:45",802,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"96","College Park-U of MD","09:00",769,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"97","College Park-U of MD","09:15",635,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"98","College Park-U of MD","09:30",562,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"99","College Park-U of MD","09:45",453,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"100","College Park-U of MD","10:00",518,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"101","College Park-U of MD","10:15",400,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"102","College Park-U of MD","10:30",427,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"103","College Park-U of MD","10:45",345,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"104","College Park-U of MD","11:00",485,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"105","College Park-U of MD","11:15",356,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"106","College Park-U of MD","11:30",396,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"107","College Park-U of MD","11:45",340,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"108","College Park-U of MD","12:00",463,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"109","College Park-U of MD","12:15",380,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"110","College Park-U of MD","12:30",434,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"111","College Park-U of MD","12:45",373,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"112","College Park-U of MD","13:00",414,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"113","College Park-U of MD","13:15",345,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"114","College Park-U of MD","13:30",381,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"115","College Park-U of MD","13:45",364,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"116","College Park-U of MD","14:00",454,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"117","College Park-U of MD","14:15",410,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"118","College Park-U of MD","14:30",421,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"119","College Park-U of MD","14:45",421,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"120","College Park-U of MD","15:00",549,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"121","College Park-U of MD","15:15",545,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"122","College Park-U of MD","15:30",518,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"123","College Park-U of MD","15:45",539,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"124","College Park-U of MD","16:00",525,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"125","College Park-U of MD","16:15",636,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"126","College Park-U of MD","16:30",591,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"127","College Park-U of MD","16:45",701,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"128","College Park-U of MD","17:00",707,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"129","College Park-U of MD","17:15",803,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"130","College Park-U of MD","17:30",734,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"131","College Park-U of MD","17:45",713,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"132","College Park-U of MD","18:00",607,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"133","College Park-U of MD","18:15",611,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"134","College Park-U of MD","18:30",522,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"135","College Park-U of MD","18:45",443,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"136","College Park-U of MD","19:00",490,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"137","College Park-U of MD","19:15",409,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"138","College Park-U of MD","19:30",326,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"139","College Park-U of MD","19:45",276,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"140","College Park-U of MD","20:00",304,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"141","College Park-U of MD","20:15",313,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"142","College Park-U of MD","20:30",213,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"143","College Park-U of MD","20:45",297,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"144","College Park-U of MD","21:00",266,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"145","College Park-U of MD","21:15",224,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"146","College Park-U of MD","21:30",178,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"147","College Park-U of MD","21:45",246,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"148","College Park-U of MD","22:00",235,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"149","College Park-U of MD","22:15",184,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"150","College Park-U of MD","22:30",97,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"151","College Park-U of MD","22:45",146,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"152","College Park-U of MD","23:00",163,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"153","College Park-U of MD","23:15",124,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"154","College Park-U of MD","23:30",52,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"155","College Park-U of MD","23:45",45,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"156","College Park-U of MD","04:30",19,2,"Green","#19AF56","#e8f7ee",3.5,16.5
+"157","Prince George's Plaza","04:45",191,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"158","Prince George's Plaza","05:00",269,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"159","Prince George's Plaza","05:15",356,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"160","Prince George's Plaza","05:30",448,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"161","Prince George's Plaza","05:45",509,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"162","Prince George's Plaza","06:00",577,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"163","Prince George's Plaza","06:15",601,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"164","Prince George's Plaza","06:30",688,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"165","Prince George's Plaza","06:45",814,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"166","Prince George's Plaza","07:00",969,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"167","Prince George's Plaza","07:15",1084,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"168","Prince George's Plaza","07:30",1140,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"169","Prince George's Plaza","07:45",1243,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"170","Prince George's Plaza","08:00",1286,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"171","Prince George's Plaza","08:15",1365,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"172","Prince George's Plaza","08:30",1111,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"173","Prince George's Plaza","08:45",926,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"174","Prince George's Plaza","09:00",787,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"175","Prince George's Plaza","09:15",684,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"176","Prince George's Plaza","09:30",603,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"177","Prince George's Plaza","09:45",530,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"178","Prince George's Plaza","10:00",447,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"179","Prince George's Plaza","10:15",457,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"180","Prince George's Plaza","10:30",451,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"181","Prince George's Plaza","10:45",416,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"182","Prince George's Plaza","11:00",407,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"183","Prince George's Plaza","11:15",412,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"184","Prince George's Plaza","11:30",405,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"185","Prince George's Plaza","11:45",398,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"186","Prince George's Plaza","12:00",405,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"187","Prince George's Plaza","12:15",382,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"188","Prince George's Plaza","12:30",440,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"189","Prince George's Plaza","12:45",446,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"190","Prince George's Plaza","13:00",398,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"191","Prince George's Plaza","13:15",447,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"192","Prince George's Plaza","13:30",417,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"193","Prince George's Plaza","13:45",446,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"194","Prince George's Plaza","14:00",459,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"195","Prince George's Plaza","14:15",489,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"196","Prince George's Plaza","14:30",474,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"197","Prince George's Plaza","14:45",434,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"198","Prince George's Plaza","15:00",464,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"199","Prince George's Plaza","15:15",496,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"200","Prince George's Plaza","15:30",517,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"201","Prince George's Plaza","15:45",511,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"202","Prince George's Plaza","16:00",501,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"203","Prince George's Plaza","16:15",494,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"204","Prince George's Plaza","16:30",608,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"205","Prince George's Plaza","16:45",550,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"206","Prince George's Plaza","17:00",551,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"207","Prince George's Plaza","17:15",549,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"208","Prince George's Plaza","17:30",514,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"209","Prince George's Plaza","17:45",453,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"210","Prince George's Plaza","18:00",460,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"211","Prince George's Plaza","18:15",465,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"212","Prince George's Plaza","18:30",402,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"213","Prince George's Plaza","18:45",376,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"214","Prince George's Plaza","19:00",372,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"215","Prince George's Plaza","19:15",346,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"216","Prince George's Plaza","19:30",346,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"217","Prince George's Plaza","19:45",301,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"218","Prince George's Plaza","20:00",284,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"219","Prince George's Plaza","20:15",316,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"220","Prince George's Plaza","20:30",299,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"221","Prince George's Plaza","20:45",275,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"222","Prince George's Plaza","21:00",294,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"223","Prince George's Plaza","21:15",277,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"224","Prince George's Plaza","21:30",254,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"225","Prince George's Plaza","21:45",252,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"226","Prince George's Plaza","22:00",261,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"227","Prince George's Plaza","22:15",175,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"228","Prince George's Plaza","22:30",185,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"229","Prince George's Plaza","22:45",148,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"230","Prince George's Plaza","23:00",139,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"231","Prince George's Plaza","23:15",113,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"232","Prince George's Plaza","23:30",88,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"233","Prince George's Plaza","23:45",36,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"234","Prince George's Plaza","04:30",0,3,"Green","#19AF56","#e8f7ee",3.5,16.5
+"235","West Hyattsville","04:45",295,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"236","West Hyattsville","05:00",533,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"237","West Hyattsville","05:15",356,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"238","West Hyattsville","05:30",448,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"239","West Hyattsville","05:45",577,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"240","West Hyattsville","06:00",716,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"241","West Hyattsville","06:15",814,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"242","West Hyattsville","06:30",656,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"243","West Hyattsville","06:45",808,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"244","West Hyattsville","07:00",958,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"245","West Hyattsville","07:15",1111,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"246","West Hyattsville","07:30",1050,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"247","West Hyattsville","07:45",1211,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"248","West Hyattsville","08:00",1101,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"249","West Hyattsville","08:15",1114,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"250","West Hyattsville","08:30",891,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"251","West Hyattsville","08:45",745,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"252","West Hyattsville","09:00",672,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"253","West Hyattsville","09:15",625,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"254","West Hyattsville","09:30",546,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"255","West Hyattsville","09:45",476,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"256","West Hyattsville","10:00",446,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"257","West Hyattsville","10:15",426,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"258","West Hyattsville","10:30",333,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"259","West Hyattsville","10:45",342,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"260","West Hyattsville","11:00",343,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"261","West Hyattsville","11:15",339,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"262","West Hyattsville","11:30",287,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"263","West Hyattsville","11:45",310,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"264","West Hyattsville","12:00",307,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"265","West Hyattsville","12:15",311,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"266","West Hyattsville","12:30",269,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"267","West Hyattsville","12:45",286,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"268","West Hyattsville","13:00",292,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"269","West Hyattsville","13:15",286,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"270","West Hyattsville","13:30",277,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"271","West Hyattsville","13:45",329,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"272","West Hyattsville","14:00",337,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"273","West Hyattsville","14:15",356,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"274","West Hyattsville","14:30",325,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"275","West Hyattsville","14:45",367,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"276","West Hyattsville","15:00",365,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"277","West Hyattsville","15:15",378,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"278","West Hyattsville","15:30",313,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"279","West Hyattsville","15:45",346,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"280","West Hyattsville","16:00",320,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"281","West Hyattsville","16:15",389,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"282","West Hyattsville","16:30",397,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"283","West Hyattsville","16:45",388,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"284","West Hyattsville","17:00",387,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"285","West Hyattsville","17:15",343,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"286","West Hyattsville","17:30",314,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"287","West Hyattsville","17:45",299,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"288","West Hyattsville","18:00",270,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"289","West Hyattsville","18:15",227,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"290","West Hyattsville","18:30",214,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"291","West Hyattsville","18:45",193,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"292","West Hyattsville","19:00",194,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"293","West Hyattsville","19:15",158,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"294","West Hyattsville","19:30",156,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"295","West Hyattsville","19:45",137,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"296","West Hyattsville","20:00",146,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"297","West Hyattsville","20:15",131,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"298","West Hyattsville","20:30",136,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"299","West Hyattsville","20:45",177,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"300","West Hyattsville","21:00",146,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"301","West Hyattsville","21:15",138,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"302","West Hyattsville","21:30",134,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"303","West Hyattsville","21:45",146,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"304","West Hyattsville","22:00",112,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"305","West Hyattsville","22:15",109,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"306","West Hyattsville","22:30",90,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"307","West Hyattsville","22:45",72,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"308","West Hyattsville","23:00",64,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"309","West Hyattsville","23:15",73,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"310","West Hyattsville","23:30",58,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"311","West Hyattsville","23:45",34,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"312","West Hyattsville","04:30",0,4,"Green","#19AF56","#e8f7ee",3.5,16.5
+"313","Fort Totten","04:45",80,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"314","Fort Totten","05:00",582,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"315","Fort Totten","05:15",738,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"316","Fort Totten","05:30",642,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"317","Fort Totten","05:45",930,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"318","Fort Totten","06:00",882,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"319","Fort Totten","06:15",1137,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"320","Fort Totten","06:30",1294,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"321","Fort Totten","06:45",1417,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"322","Fort Totten","07:00",1540,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"323","Fort Totten","07:15",1856,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"324","Fort Totten","07:30",2104,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"325","Fort Totten","07:45",1831,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"326","Fort Totten","08:00",1733,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"327","Fort Totten","08:15",1980,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"328","Fort Totten","08:30",1801,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"329","Fort Totten","08:45",1432,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"330","Fort Totten","09:00",1249,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"331","Fort Totten","09:15",1036,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"332","Fort Totten","09:30",917,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"333","Fort Totten","09:45",825,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"334","Fort Totten","10:00",866,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"335","Fort Totten","10:15",709,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"336","Fort Totten","10:30",657,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"337","Fort Totten","10:45",609,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"338","Fort Totten","11:00",605,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"339","Fort Totten","11:15",543,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"340","Fort Totten","11:30",576,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"341","Fort Totten","11:45",576,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"342","Fort Totten","12:00",608,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"343","Fort Totten","12:15",653,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"344","Fort Totten","12:30",626,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"345","Fort Totten","12:45",584,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"346","Fort Totten","13:00",558,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"347","Fort Totten","13:15",641,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"348","Fort Totten","13:30",519,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"349","Fort Totten","13:45",622,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"350","Fort Totten","14:00",644,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"351","Fort Totten","14:15",515,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"352","Fort Totten","14:30",589,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"353","Fort Totten","14:45",656,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"354","Fort Totten","15:00",701,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"355","Fort Totten","15:15",714,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"356","Fort Totten","15:30",1025,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"357","Fort Totten","15:45",942,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"358","Fort Totten","16:00",905,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"359","Fort Totten","16:15",918,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"360","Fort Totten","16:30",780,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"361","Fort Totten","16:45",950,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"362","Fort Totten","17:00",979,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"363","Fort Totten","17:15",866,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"364","Fort Totten","17:30",787,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"365","Fort Totten","17:45",695,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"366","Fort Totten","18:00",703,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"367","Fort Totten","18:15",676,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"368","Fort Totten","18:30",526,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"369","Fort Totten","18:45",471,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"370","Fort Totten","19:00",469,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"371","Fort Totten","19:15",403,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"372","Fort Totten","19:30",385,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"373","Fort Totten","19:45",377,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"374","Fort Totten","20:00",359,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"375","Fort Totten","20:15",358,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"376","Fort Totten","20:30",343,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"377","Fort Totten","20:45",300,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"378","Fort Totten","21:00",321,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"379","Fort Totten","21:15",291,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"380","Fort Totten","21:30",308,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"381","Fort Totten","21:45",263,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"382","Fort Totten","22:00",258,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"383","Fort Totten","22:15",239,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"384","Fort Totten","22:30",209,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"385","Fort Totten","22:45",186,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"386","Fort Totten","23:00",182,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"387","Fort Totten","23:15",173,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"388","Fort Totten","23:30",101,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"389","Fort Totten","23:45",70,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"390","Fort Totten","04:30",4,5,"Green","#19AF56","#e8f7ee",3.5,16.5
+"391","Georgia Avenue-Petworth","04:45",41,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"392","Georgia Avenue-Petworth","05:00",316,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"393","Georgia Avenue-Petworth","05:15",333,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"394","Georgia Avenue-Petworth","05:30",348,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"395","Georgia Avenue-Petworth","05:45",371,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"396","Georgia Avenue-Petworth","06:00",478,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"397","Georgia Avenue-Petworth","06:15",576,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"398","Georgia Avenue-Petworth","06:30",629,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"399","Georgia Avenue-Petworth","06:45",661,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"400","Georgia Avenue-Petworth","07:00",810,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"401","Georgia Avenue-Petworth","07:15",1000,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"402","Georgia Avenue-Petworth","07:30",1257,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"403","Georgia Avenue-Petworth","07:45",1423,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"404","Georgia Avenue-Petworth","08:00",1718,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"405","Georgia Avenue-Petworth","08:15",2038,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"406","Georgia Avenue-Petworth","08:30",2151,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"407","Georgia Avenue-Petworth","08:45",1676,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"408","Georgia Avenue-Petworth","09:00",1288,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"409","Georgia Avenue-Petworth","09:15",1051,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"410","Georgia Avenue-Petworth","09:30",914,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"411","Georgia Avenue-Petworth","09:45",670,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"412","Georgia Avenue-Petworth","10:00",632,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"413","Georgia Avenue-Petworth","10:15",614,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"414","Georgia Avenue-Petworth","10:30",583,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"415","Georgia Avenue-Petworth","10:45",488,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"416","Georgia Avenue-Petworth","11:00",512,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"417","Georgia Avenue-Petworth","11:15",503,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"418","Georgia Avenue-Petworth","11:30",547,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"419","Georgia Avenue-Petworth","11:45",487,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"420","Georgia Avenue-Petworth","12:00",499,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"421","Georgia Avenue-Petworth","12:15",527,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"422","Georgia Avenue-Petworth","12:30",493,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"423","Georgia Avenue-Petworth","12:45",461,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"424","Georgia Avenue-Petworth","13:00",485,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"425","Georgia Avenue-Petworth","13:15",488,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"426","Georgia Avenue-Petworth","13:30",484,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"427","Georgia Avenue-Petworth","13:45",489,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"428","Georgia Avenue-Petworth","14:00",509,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"429","Georgia Avenue-Petworth","14:15",543,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"430","Georgia Avenue-Petworth","14:30",494,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"431","Georgia Avenue-Petworth","14:45",543,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"432","Georgia Avenue-Petworth","15:00",557,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"433","Georgia Avenue-Petworth","15:15",600,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"434","Georgia Avenue-Petworth","15:30",674,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"435","Georgia Avenue-Petworth","15:45",582,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"436","Georgia Avenue-Petworth","16:00",652,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"437","Georgia Avenue-Petworth","16:15",715,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"438","Georgia Avenue-Petworth","16:30",692,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"439","Georgia Avenue-Petworth","16:45",648,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"440","Georgia Avenue-Petworth","17:00",679,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"441","Georgia Avenue-Petworth","17:15",685,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"442","Georgia Avenue-Petworth","17:30",678,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"443","Georgia Avenue-Petworth","17:45",652,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"444","Georgia Avenue-Petworth","18:00",665,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"445","Georgia Avenue-Petworth","18:15",652,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"446","Georgia Avenue-Petworth","18:30",554,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"447","Georgia Avenue-Petworth","18:45",510,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"448","Georgia Avenue-Petworth","19:00",471,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"449","Georgia Avenue-Petworth","19:15",479,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"450","Georgia Avenue-Petworth","19:30",426,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"451","Georgia Avenue-Petworth","19:45",401,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"452","Georgia Avenue-Petworth","20:00",367,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"453","Georgia Avenue-Petworth","20:15",342,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"454","Georgia Avenue-Petworth","20:30",329,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"455","Georgia Avenue-Petworth","20:45",295,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"456","Georgia Avenue-Petworth","21:00",320,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"457","Georgia Avenue-Petworth","21:15",323,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"458","Georgia Avenue-Petworth","21:30",263,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"459","Georgia Avenue-Petworth","21:45",238,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"460","Georgia Avenue-Petworth","22:00",253,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"461","Georgia Avenue-Petworth","22:15",236,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"462","Georgia Avenue-Petworth","22:30",208,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"463","Georgia Avenue-Petworth","22:45",178,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"464","Georgia Avenue-Petworth","23:00",200,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"465","Georgia Avenue-Petworth","23:15",191,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"466","Georgia Avenue-Petworth","23:30",154,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"467","Georgia Avenue-Petworth","23:45",80,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"468","Georgia Avenue-Petworth","04:30",0,6,"Green","#19AF56","#e8f7ee",3.5,16.5
+"469","Columbia Heights","04:45",40,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"470","Columbia Heights","05:00",341,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"471","Columbia Heights","05:15",493,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"472","Columbia Heights","05:30",434,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"473","Columbia Heights","05:45",510,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"474","Columbia Heights","06:00",649,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"475","Columbia Heights","06:15",735,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"476","Columbia Heights","06:30",772,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"477","Columbia Heights","06:45",883,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"478","Columbia Heights","07:00",1058,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"479","Columbia Heights","07:15",1356,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"480","Columbia Heights","07:30",1845,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"481","Columbia Heights","07:45",2066,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"482","Columbia Heights","08:00",2465,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"483","Columbia Heights","08:15",2957,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"484","Columbia Heights","08:30",3245,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"485","Columbia Heights","08:45",2632,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"486","Columbia Heights","09:00",2021,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"487","Columbia Heights","09:15",1675,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"488","Columbia Heights","09:30",1505,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"489","Columbia Heights","09:45",1165,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"490","Columbia Heights","10:00",943,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"491","Columbia Heights","10:15",898,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"492","Columbia Heights","10:30",857,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"493","Columbia Heights","10:45",786,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"494","Columbia Heights","11:00",788,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"495","Columbia Heights","11:15",837,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"496","Columbia Heights","11:30",905,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"497","Columbia Heights","11:45",849,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"498","Columbia Heights","12:00",831,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"499","Columbia Heights","12:15",825,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"500","Columbia Heights","12:30",860,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"501","Columbia Heights","12:45",849,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"502","Columbia Heights","13:00",862,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"503","Columbia Heights","13:15",838,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"504","Columbia Heights","13:30",834,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"505","Columbia Heights","13:45",799,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"506","Columbia Heights","14:00",851,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"507","Columbia Heights","14:15",900,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"508","Columbia Heights","14:30",915,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"509","Columbia Heights","14:45",937,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"510","Columbia Heights","15:00",1202,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"511","Columbia Heights","15:15",1360,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"512","Columbia Heights","15:30",1506,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"513","Columbia Heights","15:45",1338,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"514","Columbia Heights","16:00",1394,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"515","Columbia Heights","16:15",1528,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"516","Columbia Heights","16:30",1541,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"517","Columbia Heights","16:45",1443,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"518","Columbia Heights","17:00",1608,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"519","Columbia Heights","17:15",1495,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"520","Columbia Heights","17:30",1479,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"521","Columbia Heights","17:45",1378,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"522","Columbia Heights","18:00",1357,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"523","Columbia Heights","18:15",1345,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"524","Columbia Heights","18:30",1223,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"525","Columbia Heights","18:45",1087,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"526","Columbia Heights","19:00",1074,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"527","Columbia Heights","19:15",992,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"528","Columbia Heights","19:30",929,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"529","Columbia Heights","19:45",845,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"530","Columbia Heights","20:00",807,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"531","Columbia Heights","20:15",758,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"532","Columbia Heights","20:30",692,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"533","Columbia Heights","20:45",664,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"534","Columbia Heights","21:00",811,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"535","Columbia Heights","21:15",701,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"536","Columbia Heights","21:30",656,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"537","Columbia Heights","21:45",591,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"538","Columbia Heights","22:00",599,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"539","Columbia Heights","22:15",532,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"540","Columbia Heights","22:30",476,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"541","Columbia Heights","22:45",420,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"542","Columbia Heights","23:00",459,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"543","Columbia Heights","23:15",409,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"544","Columbia Heights","23:30",446,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"545","Columbia Heights","23:45",275,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"546","Columbia Heights","04:30",0,7,"Green","#19AF56","#e8f7ee",3.5,16.5
+"547","U Street-Cardozo","04:45",2,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"548","U Street-Cardozo","05:00",118,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"549","U Street-Cardozo","05:15",155,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"550","U Street-Cardozo","05:30",152,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"551","U Street-Cardozo","05:45",165,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"552","U Street-Cardozo","06:00",224,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"553","U Street-Cardozo","06:15",296,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"554","U Street-Cardozo","06:30",378,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"555","U Street-Cardozo","06:45",457,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"556","U Street-Cardozo","07:00",581,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"557","U Street-Cardozo","07:15",762,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"558","U Street-Cardozo","07:30",959,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"559","U Street-Cardozo","07:45",1096,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"560","U Street-Cardozo","08:00",1327,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"561","U Street-Cardozo","08:15",1531,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"562","U Street-Cardozo","08:30",1682,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"563","U Street-Cardozo","08:45",1522,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"564","U Street-Cardozo","09:00",1147,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"565","U Street-Cardozo","09:15",943,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"566","U Street-Cardozo","09:30",722,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"567","U Street-Cardozo","09:45",633,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"568","U Street-Cardozo","10:00",528,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"569","U Street-Cardozo","10:15",503,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"570","U Street-Cardozo","10:30",515,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"571","U Street-Cardozo","10:45",458,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"572","U Street-Cardozo","11:00",453,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"573","U Street-Cardozo","11:15",456,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"574","U Street-Cardozo","11:30",453,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"575","U Street-Cardozo","11:45",437,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"576","U Street-Cardozo","12:00",473,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"577","U Street-Cardozo","12:15",500,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"578","U Street-Cardozo","12:30",534,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"579","U Street-Cardozo","12:45",498,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"580","U Street-Cardozo","13:00",546,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"581","U Street-Cardozo","13:15",545,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"582","U Street-Cardozo","13:30",491,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"583","U Street-Cardozo","13:45",553,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"584","U Street-Cardozo","14:00",579,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"585","U Street-Cardozo","14:15",542,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"586","U Street-Cardozo","14:30",555,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"587","U Street-Cardozo","14:45",574,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"588","U Street-Cardozo","15:00",634,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"589","U Street-Cardozo","15:15",666,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"590","U Street-Cardozo","15:30",755,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"591","U Street-Cardozo","15:45",741,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"592","U Street-Cardozo","16:00",742,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"593","U Street-Cardozo","16:15",726,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"594","U Street-Cardozo","16:30",764,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"595","U Street-Cardozo","16:45",903,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"596","U Street-Cardozo","17:00",1150,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"597","U Street-Cardozo","17:15",1146,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"598","U Street-Cardozo","17:30",1033,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"599","U Street-Cardozo","17:45",922,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"600","U Street-Cardozo","18:00",996,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"601","U Street-Cardozo","18:15",938,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"602","U Street-Cardozo","18:30",904,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"603","U Street-Cardozo","18:45",853,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"604","U Street-Cardozo","19:00",765,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"605","U Street-Cardozo","19:15",781,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"606","U Street-Cardozo","19:30",726,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"607","U Street-Cardozo","19:45",708,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"608","U Street-Cardozo","20:00",789,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"609","U Street-Cardozo","20:15",737,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"610","U Street-Cardozo","20:30",650,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"611","U Street-Cardozo","20:45",696,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"612","U Street-Cardozo","21:00",685,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"613","U Street-Cardozo","21:15",715,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"614","U Street-Cardozo","21:30",829,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"615","U Street-Cardozo","21:45",872,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"616","U Street-Cardozo","22:00",733,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"617","U Street-Cardozo","22:15",799,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"618","U Street-Cardozo","22:30",759,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"619","U Street-Cardozo","22:45",794,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"620","U Street-Cardozo","23:00",705,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"621","U Street-Cardozo","23:15",661,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"622","U Street-Cardozo","23:30",528,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"623","U Street-Cardozo","23:45",407,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"624","U Street-Cardozo","04:30",0,8,"Green","#19AF56","#e8f7ee",3.5,16.5
+"625","Shaw-Howard University","04:45",2,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"626","Shaw-Howard University","05:00",129,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"627","Shaw-Howard University","05:15",144,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"628","Shaw-Howard University","05:30",159,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"629","Shaw-Howard University","05:45",192,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"630","Shaw-Howard University","06:00",216,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"631","Shaw-Howard University","06:15",272,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"632","Shaw-Howard University","06:30",315,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"633","Shaw-Howard University","06:45",351,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"634","Shaw-Howard University","07:00",458,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"635","Shaw-Howard University","07:15",631,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"636","Shaw-Howard University","07:30",716,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"637","Shaw-Howard University","07:45",821,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"638","Shaw-Howard University","08:00",1047,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"639","Shaw-Howard University","08:15",1269,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"640","Shaw-Howard University","08:30",1290,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"641","Shaw-Howard University","08:45",1141,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"642","Shaw-Howard University","09:00",919,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"643","Shaw-Howard University","09:15",748,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"644","Shaw-Howard University","09:30",697,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"645","Shaw-Howard University","09:45",541,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"646","Shaw-Howard University","10:00",494,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"647","Shaw-Howard University","10:15",456,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"648","Shaw-Howard University","10:30",434,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"649","Shaw-Howard University","10:45",438,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"650","Shaw-Howard University","11:00",437,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"651","Shaw-Howard University","11:15",484,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"652","Shaw-Howard University","11:30",460,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"653","Shaw-Howard University","11:45",448,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"654","Shaw-Howard University","12:00",499,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"655","Shaw-Howard University","12:15",521,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"656","Shaw-Howard University","12:30",534,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"657","Shaw-Howard University","12:45",493,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"658","Shaw-Howard University","13:00",568,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"659","Shaw-Howard University","13:15",528,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"660","Shaw-Howard University","13:30",471,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"661","Shaw-Howard University","13:45",480,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"662","Shaw-Howard University","14:00",542,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"663","Shaw-Howard University","14:15",599,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"664","Shaw-Howard University","14:30",586,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"665","Shaw-Howard University","14:45",578,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"666","Shaw-Howard University","15:00",597,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"667","Shaw-Howard University","15:15",637,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"668","Shaw-Howard University","15:30",836,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"669","Shaw-Howard University","15:45",767,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"670","Shaw-Howard University","16:00",770,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"671","Shaw-Howard University","16:15",789,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"672","Shaw-Howard University","16:30",856,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"673","Shaw-Howard University","16:45",862,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"674","Shaw-Howard University","17:00",1066,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"675","Shaw-Howard University","17:15",968,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"676","Shaw-Howard University","17:30",912,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"677","Shaw-Howard University","17:45",859,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"678","Shaw-Howard University","18:00",811,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"679","Shaw-Howard University","18:15",736,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"680","Shaw-Howard University","18:30",691,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"681","Shaw-Howard University","18:45",638,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"682","Shaw-Howard University","19:00",596,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"683","Shaw-Howard University","19:15",593,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"684","Shaw-Howard University","19:30",537,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"685","Shaw-Howard University","19:45",490,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"686","Shaw-Howard University","20:00",477,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"687","Shaw-Howard University","20:15",477,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"688","Shaw-Howard University","20:30",446,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"689","Shaw-Howard University","20:45",474,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"690","Shaw-Howard University","21:00",491,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"691","Shaw-Howard University","21:15",403,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"692","Shaw-Howard University","21:30",352,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"693","Shaw-Howard University","21:45",364,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"694","Shaw-Howard University","22:00",376,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"695","Shaw-Howard University","22:15",353,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"696","Shaw-Howard University","22:30",266,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"697","Shaw-Howard University","22:45",285,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"698","Shaw-Howard University","23:00",353,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"699","Shaw-Howard University","23:15",364,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"700","Shaw-Howard University","23:30",344,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"701","Shaw-Howard University","23:45",211,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"702","Shaw-Howard University","04:30",0,9,"Green","#19AF56","#e8f7ee",3.5,16.5
+"703","Mt. Vernon Square-UDC","04:45",0,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"704","Mt. Vernon Square-UDC","05:00",79,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"705","Mt. Vernon Square-UDC","05:15",170,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"706","Mt. Vernon Square-UDC","05:30",171,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"707","Mt. Vernon Square-UDC","05:45",176,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"708","Mt. Vernon Square-UDC","06:00",236,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"709","Mt. Vernon Square-UDC","06:15",299,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"710","Mt. Vernon Square-UDC","06:30",370,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"711","Mt. Vernon Square-UDC","06:45",375,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"712","Mt. Vernon Square-UDC","07:00",489,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"713","Mt. Vernon Square-UDC","07:15",578,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"714","Mt. Vernon Square-UDC","07:30",689,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"715","Mt. Vernon Square-UDC","07:45",773,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"716","Mt. Vernon Square-UDC","08:00",864,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"717","Mt. Vernon Square-UDC","08:15",1000,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"718","Mt. Vernon Square-UDC","08:30",1047,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"719","Mt. Vernon Square-UDC","08:45",860,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"720","Mt. Vernon Square-UDC","09:00",656,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"721","Mt. Vernon Square-UDC","09:15",589,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"722","Mt. Vernon Square-UDC","09:30",574,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"723","Mt. Vernon Square-UDC","09:45",508,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"724","Mt. Vernon Square-UDC","10:00",504,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"725","Mt. Vernon Square-UDC","10:15",502,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"726","Mt. Vernon Square-UDC","10:30",489,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"727","Mt. Vernon Square-UDC","10:45",461,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"728","Mt. Vernon Square-UDC","11:00",558,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"729","Mt. Vernon Square-UDC","11:15",562,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"730","Mt. Vernon Square-UDC","11:30",574,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"731","Mt. Vernon Square-UDC","11:45",559,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"732","Mt. Vernon Square-UDC","12:00",687,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"733","Mt. Vernon Square-UDC","12:15",584,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"734","Mt. Vernon Square-UDC","12:30",635,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"735","Mt. Vernon Square-UDC","12:45",621,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"736","Mt. Vernon Square-UDC","13:00",622,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"737","Mt. Vernon Square-UDC","13:15",632,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"738","Mt. Vernon Square-UDC","13:30",616,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"739","Mt. Vernon Square-UDC","13:45",641,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"740","Mt. Vernon Square-UDC","14:00",668,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"741","Mt. Vernon Square-UDC","14:15",752,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"742","Mt. Vernon Square-UDC","14:30",794,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"743","Mt. Vernon Square-UDC","14:45",774,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"744","Mt. Vernon Square-UDC","15:00",839,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"745","Mt. Vernon Square-UDC","15:15",877,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"746","Mt. Vernon Square-UDC","15:30",925,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"747","Mt. Vernon Square-UDC","15:45",910,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"748","Mt. Vernon Square-UDC","16:00",1049,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"749","Mt. Vernon Square-UDC","16:15",1062,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"750","Mt. Vernon Square-UDC","16:30",1173,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"751","Mt. Vernon Square-UDC","16:45",1219,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"752","Mt. Vernon Square-UDC","17:00",1572,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"753","Mt. Vernon Square-UDC","17:15",1619,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"754","Mt. Vernon Square-UDC","17:30",1343,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"755","Mt. Vernon Square-UDC","17:45",1298,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"756","Mt. Vernon Square-UDC","18:00",1045,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"757","Mt. Vernon Square-UDC","18:15",955,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"758","Mt. Vernon Square-UDC","18:30",830,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"759","Mt. Vernon Square-UDC","18:45",783,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"760","Mt. Vernon Square-UDC","19:00",787,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"761","Mt. Vernon Square-UDC","19:15",626,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"762","Mt. Vernon Square-UDC","19:30",554,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"763","Mt. Vernon Square-UDC","19:45",484,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"764","Mt. Vernon Square-UDC","20:00",502,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"765","Mt. Vernon Square-UDC","20:15",500,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"766","Mt. Vernon Square-UDC","20:30",467,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"767","Mt. Vernon Square-UDC","20:45",445,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"768","Mt. Vernon Square-UDC","21:00",392,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"769","Mt. Vernon Square-UDC","21:15",380,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"770","Mt. Vernon Square-UDC","21:30",370,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"771","Mt. Vernon Square-UDC","21:45",347,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"772","Mt. Vernon Square-UDC","22:00",341,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"773","Mt. Vernon Square-UDC","22:15",317,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"774","Mt. Vernon Square-UDC","22:30",334,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"775","Mt. Vernon Square-UDC","22:45",287,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"776","Mt. Vernon Square-UDC","23:00",323,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"777","Mt. Vernon Square-UDC","23:15",292,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"778","Mt. Vernon Square-UDC","23:30",282,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"779","Mt. Vernon Square-UDC","23:45",144,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"780","Mt. Vernon Square-UDC","04:30",0,10,"Green","#19AF56","#e8f7ee",3.5,16.5
+"781","Gallery Place-Chinatown","04:45",8,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"782","Gallery Place-Chinatown","05:00",136,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"783","Gallery Place-Chinatown","05:15",243,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"784","Gallery Place-Chinatown","05:30",189,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"785","Gallery Place-Chinatown","05:45",230,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"786","Gallery Place-Chinatown","06:00",313,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"787","Gallery Place-Chinatown","06:15",366,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"788","Gallery Place-Chinatown","06:30",438,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"789","Gallery Place-Chinatown","06:45",474,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"790","Gallery Place-Chinatown","07:00",620,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"791","Gallery Place-Chinatown","07:15",813,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"792","Gallery Place-Chinatown","07:30",841,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"793","Gallery Place-Chinatown","07:45",904,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"794","Gallery Place-Chinatown","08:00",1081,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"795","Gallery Place-Chinatown","08:15",1191,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"796","Gallery Place-Chinatown","08:30",1242,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"797","Gallery Place-Chinatown","08:45",1152,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"798","Gallery Place-Chinatown","09:00",954,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"799","Gallery Place-Chinatown","09:15",950,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"800","Gallery Place-Chinatown","09:30",894,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"801","Gallery Place-Chinatown","09:45",742,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"802","Gallery Place-Chinatown","10:00",747,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"803","Gallery Place-Chinatown","10:15",728,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"804","Gallery Place-Chinatown","10:30",734,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"805","Gallery Place-Chinatown","10:45",763,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"806","Gallery Place-Chinatown","11:00",768,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"807","Gallery Place-Chinatown","11:15",831,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"808","Gallery Place-Chinatown","11:30",925,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"809","Gallery Place-Chinatown","11:45",1036,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"810","Gallery Place-Chinatown","12:00",1155,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"811","Gallery Place-Chinatown","12:15",1169,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"812","Gallery Place-Chinatown","12:30",1202,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"813","Gallery Place-Chinatown","12:45",1259,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"814","Gallery Place-Chinatown","13:00",1476,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"815","Gallery Place-Chinatown","13:15",1636,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"816","Gallery Place-Chinatown","13:30",1606,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"817","Gallery Place-Chinatown","13:45",1581,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"818","Gallery Place-Chinatown","14:00",1691,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"819","Gallery Place-Chinatown","14:15",1676,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"820","Gallery Place-Chinatown","14:30",1792,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"821","Gallery Place-Chinatown","14:45",1904,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"822","Gallery Place-Chinatown","15:00",2197,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"823","Gallery Place-Chinatown","15:15",2248,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"824","Gallery Place-Chinatown","15:30",2735,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"825","Gallery Place-Chinatown","15:45",2875,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"826","Gallery Place-Chinatown","16:00",3802,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"827","Gallery Place-Chinatown","16:15",3745,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"828","Gallery Place-Chinatown","16:30",4573,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"829","Gallery Place-Chinatown","16:45",4438,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"830","Gallery Place-Chinatown","17:00",6399,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"831","Gallery Place-Chinatown","17:15",5999,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"832","Gallery Place-Chinatown","17:30",6278,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"833","Gallery Place-Chinatown","17:45",5192,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"834","Gallery Place-Chinatown","18:00",5115,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"835","Gallery Place-Chinatown","18:15",4207,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"836","Gallery Place-Chinatown","18:30",3659,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"837","Gallery Place-Chinatown","18:45",3215,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"838","Gallery Place-Chinatown","19:00",3327,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"839","Gallery Place-Chinatown","19:15",2826,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"840","Gallery Place-Chinatown","19:30",2491,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"841","Gallery Place-Chinatown","19:45",2353,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"842","Gallery Place-Chinatown","20:00",2548,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"843","Gallery Place-Chinatown","20:15",2316,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"844","Gallery Place-Chinatown","20:30",2195,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"845","Gallery Place-Chinatown","20:45",2059,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"846","Gallery Place-Chinatown","21:00",2119,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"847","Gallery Place-Chinatown","21:15",2705,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"848","Gallery Place-Chinatown","21:30",3181,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"849","Gallery Place-Chinatown","21:45",2662,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"850","Gallery Place-Chinatown","22:00",2233,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"851","Gallery Place-Chinatown","22:15",1813,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"852","Gallery Place-Chinatown","22:30",2300,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"853","Gallery Place-Chinatown","22:45",1950,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"854","Gallery Place-Chinatown","23:00",1457,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"855","Gallery Place-Chinatown","23:15",1099,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"856","Gallery Place-Chinatown","23:30",988,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"857","Gallery Place-Chinatown","23:45",725,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"858","Gallery Place-Chinatown","04:30",0,11,"Green","#19AF56","#e8f7ee",3.5,16.5
+"859","Archives-Navy Memorial","04:45",1,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"860","Archives-Navy Memorial","05:00",78,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"861","Archives-Navy Memorial","05:15",94,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"862","Archives-Navy Memorial","05:30",85,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"863","Archives-Navy Memorial","05:45",129,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"864","Archives-Navy Memorial","06:00",136,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"865","Archives-Navy Memorial","06:15",157,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"866","Archives-Navy Memorial","06:30",174,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"867","Archives-Navy Memorial","06:45",229,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"868","Archives-Navy Memorial","07:00",258,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"869","Archives-Navy Memorial","07:15",236,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"870","Archives-Navy Memorial","07:30",304,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"871","Archives-Navy Memorial","07:45",263,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"872","Archives-Navy Memorial","08:00",290,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"873","Archives-Navy Memorial","08:15",282,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"874","Archives-Navy Memorial","08:30",273,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"875","Archives-Navy Memorial","08:45",293,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"876","Archives-Navy Memorial","09:00",271,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"877","Archives-Navy Memorial","09:15",298,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"878","Archives-Navy Memorial","09:30",269,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"879","Archives-Navy Memorial","09:45",291,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"880","Archives-Navy Memorial","10:00",296,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"881","Archives-Navy Memorial","10:15",329,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"882","Archives-Navy Memorial","10:30",302,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"883","Archives-Navy Memorial","10:45",357,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"884","Archives-Navy Memorial","11:00",405,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"885","Archives-Navy Memorial","11:15",454,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"886","Archives-Navy Memorial","11:30",478,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"887","Archives-Navy Memorial","11:45",506,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"888","Archives-Navy Memorial","12:00",635,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"889","Archives-Navy Memorial","12:15",590,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"890","Archives-Navy Memorial","12:30",565,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"891","Archives-Navy Memorial","12:45",549,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"892","Archives-Navy Memorial","13:00",660,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"893","Archives-Navy Memorial","13:15",701,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"894","Archives-Navy Memorial","13:30",691,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"895","Archives-Navy Memorial","13:45",665,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"896","Archives-Navy Memorial","14:00",750,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"897","Archives-Navy Memorial","14:15",832,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"898","Archives-Navy Memorial","14:30",922,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"899","Archives-Navy Memorial","14:45",941,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"900","Archives-Navy Memorial","15:00",1292,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"901","Archives-Navy Memorial","15:15",1181,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"902","Archives-Navy Memorial","15:30",1427,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"903","Archives-Navy Memorial","15:45",1402,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"904","Archives-Navy Memorial","16:00",2131,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"905","Archives-Navy Memorial","16:15",1997,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"906","Archives-Navy Memorial","16:30",2525,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"907","Archives-Navy Memorial","16:45",2411,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"908","Archives-Navy Memorial","17:00",3341,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"909","Archives-Navy Memorial","17:15",3142,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"910","Archives-Navy Memorial","17:30",3207,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"911","Archives-Navy Memorial","17:45",2611,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"912","Archives-Navy Memorial","18:00",2235,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"913","Archives-Navy Memorial","18:15",1744,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"914","Archives-Navy Memorial","18:30",1400,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"915","Archives-Navy Memorial","18:45",1075,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"916","Archives-Navy Memorial","19:00",960,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"917","Archives-Navy Memorial","19:15",796,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"918","Archives-Navy Memorial","19:30",668,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"919","Archives-Navy Memorial","19:45",632,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"920","Archives-Navy Memorial","20:00",561,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"921","Archives-Navy Memorial","20:15",568,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"922","Archives-Navy Memorial","20:30",535,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"923","Archives-Navy Memorial","20:45",552,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"924","Archives-Navy Memorial","21:00",513,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"925","Archives-Navy Memorial","21:15",452,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"926","Archives-Navy Memorial","21:30",476,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"927","Archives-Navy Memorial","21:45",462,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"928","Archives-Navy Memorial","22:00",444,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"929","Archives-Navy Memorial","22:15",375,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"930","Archives-Navy Memorial","22:30",381,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"931","Archives-Navy Memorial","22:45",412,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"932","Archives-Navy Memorial","23:00",298,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"933","Archives-Navy Memorial","23:15",267,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"934","Archives-Navy Memorial","23:30",222,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"935","Archives-Navy Memorial","23:45",183,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"936","Archives-Navy Memorial","04:30",0,12,"Green","#19AF56","#e8f7ee",3.5,16.5
+"937","L'Enfant Plaza","04:45",7,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"938","L'Enfant Plaza","05:00",187,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"939","L'Enfant Plaza","05:15",231,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"940","L'Enfant Plaza","05:30",262,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"941","L'Enfant Plaza","05:45",370,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"942","L'Enfant Plaza","06:00",725,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"943","L'Enfant Plaza","06:15",828,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"944","L'Enfant Plaza","06:30",940,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"945","L'Enfant Plaza","06:45",964,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"946","L'Enfant Plaza","07:00",1155,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"947","L'Enfant Plaza","07:15",1239,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"948","L'Enfant Plaza","07:30",1317,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"949","L'Enfant Plaza","07:45",1329,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"950","L'Enfant Plaza","08:00",1158,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"951","L'Enfant Plaza","08:15",1091,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"952","L'Enfant Plaza","08:30",1386,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"953","L'Enfant Plaza","08:45",1241,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"954","L'Enfant Plaza","09:00",1034,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"955","L'Enfant Plaza","09:15",715,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"956","L'Enfant Plaza","09:30",624,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"957","L'Enfant Plaza","09:45",535,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"958","L'Enfant Plaza","10:00",557,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"959","L'Enfant Plaza","10:15",551,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"960","L'Enfant Plaza","10:30",573,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"961","L'Enfant Plaza","10:45",590,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"962","L'Enfant Plaza","11:00",758,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"963","L'Enfant Plaza","11:15",852,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"964","L'Enfant Plaza","11:30",975,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"965","L'Enfant Plaza","11:45",982,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"966","L'Enfant Plaza","12:00",1123,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"967","L'Enfant Plaza","12:15",1081,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"968","L'Enfant Plaza","12:30",1072,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"969","L'Enfant Plaza","12:45",1000,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"970","L'Enfant Plaza","13:00",1074,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"971","L'Enfant Plaza","13:15",1034,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"972","L'Enfant Plaza","13:30",1109,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"973","L'Enfant Plaza","13:45",1095,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"974","L'Enfant Plaza","14:00",1263,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"975","L'Enfant Plaza","14:15",1359,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"976","L'Enfant Plaza","14:30",1683,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"977","L'Enfant Plaza","14:45",1716,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"978","L'Enfant Plaza","15:00",2208,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"979","L'Enfant Plaza","15:15",2435,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"980","L'Enfant Plaza","15:30",3454,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"981","L'Enfant Plaza","15:45",3369,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"982","L'Enfant Plaza","16:00",4882,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"983","L'Enfant Plaza","16:15",4569,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"984","L'Enfant Plaza","16:30",6140,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"985","L'Enfant Plaza","16:45",5533,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"986","L'Enfant Plaza","17:00",7208,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"987","L'Enfant Plaza","17:15",6372,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"988","L'Enfant Plaza","17:30",6128,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"989","L'Enfant Plaza","17:45",4936,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"990","L'Enfant Plaza","18:00",4220,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"991","L'Enfant Plaza","18:15",3078,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"992","L'Enfant Plaza","18:30",2297,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"993","L'Enfant Plaza","18:45",1741,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"994","L'Enfant Plaza","19:00",1503,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"995","L'Enfant Plaza","19:15",1124,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"996","L'Enfant Plaza","19:30",895,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"997","L'Enfant Plaza","19:45",700,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"998","L'Enfant Plaza","20:00",666,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"999","L'Enfant Plaza","20:15",588,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1000","L'Enfant Plaza","20:30",561,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1001","L'Enfant Plaza","20:45",554,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1002","L'Enfant Plaza","21:00",585,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1003","L'Enfant Plaza","21:15",442,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1004","L'Enfant Plaza","21:30",446,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1005","L'Enfant Plaza","21:45",438,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1006","L'Enfant Plaza","22:00",415,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1007","L'Enfant Plaza","22:15",298,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1008","L'Enfant Plaza","22:30",313,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1009","L'Enfant Plaza","22:45",280,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1010","L'Enfant Plaza","23:00",234,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1011","L'Enfant Plaza","23:15",243,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1012","L'Enfant Plaza","23:30",149,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1013","L'Enfant Plaza","23:45",80,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1014","L'Enfant Plaza","04:30",0,13,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1015","Waterfront","04:45",4,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1016","Waterfront","05:00",87,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1017","Waterfront","05:15",119,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1018","Waterfront","05:30",143,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1019","Waterfront","05:45",165,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1020","Waterfront","06:00",224,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1021","Waterfront","06:15",291,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1022","Waterfront","06:30",361,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1023","Waterfront","06:45",449,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1024","Waterfront","07:00",529,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1025","Waterfront","07:15",651,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1026","Waterfront","07:30",719,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1027","Waterfront","07:45",800,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1028","Waterfront","08:00",834,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1029","Waterfront","08:15",1012,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1030","Waterfront","08:30",1020,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1031","Waterfront","08:45",874,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1032","Waterfront","09:00",725,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1033","Waterfront","09:15",643,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1034","Waterfront","09:30",577,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1035","Waterfront","09:45",480,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1036","Waterfront","10:00",435,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1037","Waterfront","10:15",430,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1038","Waterfront","10:30",446,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1039","Waterfront","10:45",385,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1040","Waterfront","11:00",375,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1041","Waterfront","11:15",394,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1042","Waterfront","11:30",411,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1043","Waterfront","11:45",414,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1044","Waterfront","12:00",407,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1045","Waterfront","12:15",411,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1046","Waterfront","12:30",419,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1047","Waterfront","12:45",422,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1048","Waterfront","13:00",429,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1049","Waterfront","13:15",422,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1050","Waterfront","13:30",405,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1051","Waterfront","13:45",390,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1052","Waterfront","14:00",414,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1053","Waterfront","14:15",450,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1054","Waterfront","14:30",493,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1055","Waterfront","14:45",447,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1056","Waterfront","15:00",556,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1057","Waterfront","15:15",598,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1058","Waterfront","15:30",648,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1059","Waterfront","15:45",617,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1060","Waterfront","16:00",602,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1061","Waterfront","16:15",671,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1062","Waterfront","16:30",785,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1063","Waterfront","16:45",765,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1064","Waterfront","17:00",774,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1065","Waterfront","17:15",721,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1066","Waterfront","17:30",758,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1067","Waterfront","17:45",643,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1068","Waterfront","18:00",661,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1069","Waterfront","18:15",586,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1070","Waterfront","18:30",534,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1071","Waterfront","18:45",498,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1072","Waterfront","19:00",507,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1073","Waterfront","19:15",375,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1074","Waterfront","19:30",356,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1075","Waterfront","19:45",287,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1076","Waterfront","20:00",306,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1077","Waterfront","20:15",281,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1078","Waterfront","20:30",289,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1079","Waterfront","20:45",297,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1080","Waterfront","21:00",273,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1081","Waterfront","21:15",279,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1082","Waterfront","21:30",202,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1083","Waterfront","21:45",217,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1084","Waterfront","22:00",292,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1085","Waterfront","22:15",254,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1086","Waterfront","22:30",254,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1087","Waterfront","22:45",178,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1088","Waterfront","23:00",156,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1089","Waterfront","23:15",172,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1090","Waterfront","23:30",129,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1091","Waterfront","23:45",48,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1092","Waterfront","04:30",0,14,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1093","Navy Yard","04:45",19,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1094","Navy Yard","05:00",79,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1095","Navy Yard","05:15",105,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1096","Navy Yard","05:30",129,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1097","Navy Yard","05:45",157,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1098","Navy Yard","06:00",236,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1099","Navy Yard","06:15",254,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1100","Navy Yard","06:30",315,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1101","Navy Yard","06:45",363,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1102","Navy Yard","07:00",488,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1103","Navy Yard","07:15",518,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1104","Navy Yard","07:30",620,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1105","Navy Yard","07:45",627,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1106","Navy Yard","08:00",757,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1107","Navy Yard","08:15",822,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1108","Navy Yard","08:30",890,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1109","Navy Yard","08:45",779,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1110","Navy Yard","09:00",633,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1111","Navy Yard","09:15",468,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1112","Navy Yard","09:30",454,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1113","Navy Yard","09:45",417,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1114","Navy Yard","10:00",395,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1115","Navy Yard","10:15",392,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1116","Navy Yard","10:30",374,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1117","Navy Yard","10:45",392,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1118","Navy Yard","11:00",427,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1119","Navy Yard","11:15",427,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1120","Navy Yard","11:30",447,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1121","Navy Yard","11:45",437,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1122","Navy Yard","12:00",478,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1123","Navy Yard","12:15",501,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1124","Navy Yard","12:30",508,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1125","Navy Yard","12:45",475,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1126","Navy Yard","13:00",513,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1127","Navy Yard","13:15",503,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1128","Navy Yard","13:30",478,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1129","Navy Yard","13:45",491,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1130","Navy Yard","14:00",576,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1131","Navy Yard","14:15",621,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1132","Navy Yard","14:30",706,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1133","Navy Yard","14:45",724,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1134","Navy Yard","15:00",940,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1135","Navy Yard","15:15",1020,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1136","Navy Yard","15:30",1357,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1137","Navy Yard","15:45",1323,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1138","Navy Yard","16:00",1614,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1139","Navy Yard","16:15",1628,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1140","Navy Yard","16:30",1981,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1141","Navy Yard","16:45",1757,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1142","Navy Yard","17:00",2024,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1143","Navy Yard","17:15",1658,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1144","Navy Yard","17:30",1638,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1145","Navy Yard","17:45",1377,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1146","Navy Yard","18:00",1295,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1147","Navy Yard","18:15",1021,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1148","Navy Yard","18:30",828,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1149","Navy Yard","18:45",666,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1150","Navy Yard","19:00",650,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1151","Navy Yard","19:15",546,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1152","Navy Yard","19:30",496,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1153","Navy Yard","19:45",434,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1154","Navy Yard","20:00",417,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1155","Navy Yard","20:15",368,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1156","Navy Yard","20:30",344,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1157","Navy Yard","20:45",321,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1158","Navy Yard","21:00",329,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1159","Navy Yard","21:15",334,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1160","Navy Yard","21:30",271,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1161","Navy Yard","21:45",275,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1162","Navy Yard","22:00",307,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1163","Navy Yard","22:15",237,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1164","Navy Yard","22:30",221,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1165","Navy Yard","22:45",200,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1166","Navy Yard","23:00",207,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1167","Navy Yard","23:15",130,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1168","Navy Yard","23:30",124,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1169","Navy Yard","23:45",64,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1170","Navy Yard","04:30",1,15,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1171","Anacostia","04:45",68,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1172","Anacostia","05:00",528,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1173","Anacostia","05:15",481,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1174","Anacostia","05:30",570,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1175","Anacostia","05:45",625,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1176","Anacostia","06:00",813,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1177","Anacostia","06:15",829,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1178","Anacostia","06:30",970,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1179","Anacostia","06:45",1053,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1180","Anacostia","07:00",1310,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1181","Anacostia","07:15",1450,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1182","Anacostia","07:30",1399,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1183","Anacostia","07:45",1367,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1184","Anacostia","08:00",1439,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1185","Anacostia","08:15",1337,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1186","Anacostia","08:30",1272,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1187","Anacostia","08:45",1144,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1188","Anacostia","09:00",1105,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1189","Anacostia","09:15",945,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1190","Anacostia","09:30",880,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1191","Anacostia","09:45",770,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1192","Anacostia","10:00",784,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1193","Anacostia","10:15",707,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1194","Anacostia","10:30",661,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1195","Anacostia","10:45",628,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1196","Anacostia","11:00",635,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1197","Anacostia","11:15",618,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1198","Anacostia","11:30",609,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1199","Anacostia","11:45",619,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1200","Anacostia","12:00",667,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1201","Anacostia","12:15",626,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1202","Anacostia","12:30",632,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1203","Anacostia","12:45",648,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1204","Anacostia","13:00",626,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1205","Anacostia","13:15",655,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1206","Anacostia","13:30",629,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1207","Anacostia","13:45",639,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1208","Anacostia","14:00",704,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1209","Anacostia","14:15",684,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1210","Anacostia","14:30",696,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1211","Anacostia","14:45",648,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1212","Anacostia","15:00",701,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1213","Anacostia","15:15",707,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1214","Anacostia","15:30",849,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1215","Anacostia","15:45",900,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1216","Anacostia","16:00",874,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1217","Anacostia","16:15",947,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1218","Anacostia","16:30",926,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1219","Anacostia","16:45",898,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1220","Anacostia","17:00",816,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1221","Anacostia","17:15",900,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1222","Anacostia","17:30",796,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1223","Anacostia","17:45",706,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1224","Anacostia","18:00",710,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1225","Anacostia","18:15",606,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1226","Anacostia","18:30",497,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1227","Anacostia","18:45",458,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1228","Anacostia","19:00",377,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1229","Anacostia","19:15",367,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1230","Anacostia","19:30",323,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1231","Anacostia","19:45",311,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1232","Anacostia","20:00",291,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1233","Anacostia","20:15",323,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1234","Anacostia","20:30",338,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1235","Anacostia","20:45",318,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1236","Anacostia","21:00",332,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1237","Anacostia","21:15",302,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1238","Anacostia","21:30",258,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1239","Anacostia","21:45",253,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1240","Anacostia","22:00",227,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1241","Anacostia","22:15",213,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1242","Anacostia","22:30",175,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1243","Anacostia","22:45",194,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1244","Anacostia","23:00",149,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1245","Anacostia","23:15",128,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1246","Anacostia","23:30",87,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1247","Anacostia","23:45",47,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1248","Anacostia","04:30",0,16,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1249","Congress Heights","04:45",109,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1250","Congress Heights","05:00",227,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1251","Congress Heights","05:15",229,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1252","Congress Heights","05:30",249,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1253","Congress Heights","05:45",316,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1254","Congress Heights","06:00",352,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1255","Congress Heights","06:15",441,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1256","Congress Heights","06:30",505,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1257","Congress Heights","06:45",538,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1258","Congress Heights","07:00",647,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1259","Congress Heights","07:15",722,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1260","Congress Heights","07:30",737,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1261","Congress Heights","07:45",755,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1262","Congress Heights","08:00",708,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1263","Congress Heights","08:15",651,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1264","Congress Heights","08:30",602,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1265","Congress Heights","08:45",537,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1266","Congress Heights","09:00",522,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1267","Congress Heights","09:15",452,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1268","Congress Heights","09:30",449,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1269","Congress Heights","09:45",392,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1270","Congress Heights","10:00",371,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1271","Congress Heights","10:15",349,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1272","Congress Heights","10:30",316,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1273","Congress Heights","10:45",297,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1274","Congress Heights","11:00",260,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1275","Congress Heights","11:15",349,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1276","Congress Heights","11:30",289,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1277","Congress Heights","11:45",296,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1278","Congress Heights","12:00",267,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1279","Congress Heights","12:15",302,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1280","Congress Heights","12:30",284,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1281","Congress Heights","12:45",313,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1282","Congress Heights","13:00",306,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1283","Congress Heights","13:15",286,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1284","Congress Heights","13:30",297,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1285","Congress Heights","13:45",280,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1286","Congress Heights","14:00",309,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1287","Congress Heights","14:15",309,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1288","Congress Heights","14:30",309,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1289","Congress Heights","14:45",288,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1290","Congress Heights","15:00",274,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1291","Congress Heights","15:15",310,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1292","Congress Heights","15:30",318,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1293","Congress Heights","15:45",321,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1294","Congress Heights","16:00",336,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1295","Congress Heights","16:15",372,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1296","Congress Heights","16:30",305,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1297","Congress Heights","16:45",334,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1298","Congress Heights","17:00",341,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1299","Congress Heights","17:15",329,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1300","Congress Heights","17:30",291,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1301","Congress Heights","17:45",275,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1302","Congress Heights","18:00",290,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1303","Congress Heights","18:15",279,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1304","Congress Heights","18:30",231,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1305","Congress Heights","18:45",199,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1306","Congress Heights","19:00",174,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1307","Congress Heights","19:15",183,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1308","Congress Heights","19:30",171,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1309","Congress Heights","19:45",161,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1310","Congress Heights","20:00",171,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1311","Congress Heights","20:15",143,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1312","Congress Heights","20:30",141,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1313","Congress Heights","20:45",115,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1314","Congress Heights","21:00",110,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1315","Congress Heights","21:15",100,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1316","Congress Heights","21:30",143,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1317","Congress Heights","21:45",128,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1318","Congress Heights","22:00",124,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1319","Congress Heights","22:15",93,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1320","Congress Heights","22:30",82,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1321","Congress Heights","22:45",103,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1322","Congress Heights","23:00",68,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1323","Congress Heights","23:15",79,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1324","Congress Heights","23:30",41,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1325","Congress Heights","23:45",17,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1326","Congress Heights","04:30",0,17,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1327","Southern Avenue","04:45",273,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1328","Southern Avenue","05:00",631,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1329","Southern Avenue","05:15",477,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1330","Southern Avenue","05:30",689,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1331","Southern Avenue","05:45",713,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1332","Southern Avenue","06:00",834,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1333","Southern Avenue","06:15",886,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1334","Southern Avenue","06:30",1154,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1335","Southern Avenue","06:45",1183,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1336","Southern Avenue","07:00",1285,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1337","Southern Avenue","07:15",1449,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1338","Southern Avenue","07:30",1613,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1339","Southern Avenue","07:45",1568,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1340","Southern Avenue","08:00",1569,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1341","Southern Avenue","08:15",1355,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1342","Southern Avenue","08:30",1332,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1343","Southern Avenue","08:45",1047,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1344","Southern Avenue","09:00",831,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1345","Southern Avenue","09:15",713,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1346","Southern Avenue","09:30",718,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1347","Southern Avenue","09:45",616,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1348","Southern Avenue","10:00",515,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1349","Southern Avenue","10:15",569,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1350","Southern Avenue","10:30",536,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1351","Southern Avenue","10:45",512,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1352","Southern Avenue","11:00",520,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1353","Southern Avenue","11:15",482,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1354","Southern Avenue","11:30",455,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1355","Southern Avenue","11:45",400,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1356","Southern Avenue","12:00",474,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1357","Southern Avenue","12:15",448,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1358","Southern Avenue","12:30",419,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1359","Southern Avenue","12:45",484,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1360","Southern Avenue","13:00",391,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1361","Southern Avenue","13:15",509,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1362","Southern Avenue","13:30",469,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1363","Southern Avenue","13:45",407,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1364","Southern Avenue","14:00",476,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1365","Southern Avenue","14:15",448,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1366","Southern Avenue","14:30",399,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1367","Southern Avenue","14:45",461,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1368","Southern Avenue","15:00",408,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1369","Southern Avenue","15:15",482,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1370","Southern Avenue","15:30",455,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1371","Southern Avenue","15:45",392,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1372","Southern Avenue","16:00",431,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1373","Southern Avenue","16:15",432,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1374","Southern Avenue","16:30",447,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1375","Southern Avenue","16:45",407,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1376","Southern Avenue","17:00",403,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1377","Southern Avenue","17:15",395,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1378","Southern Avenue","17:30",405,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1379","Southern Avenue","17:45",294,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1380","Southern Avenue","18:00",342,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1381","Southern Avenue","18:15",313,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1382","Southern Avenue","18:30",306,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1383","Southern Avenue","18:45",241,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1384","Southern Avenue","19:00",257,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1385","Southern Avenue","19:15",225,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1386","Southern Avenue","19:30",250,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1387","Southern Avenue","19:45",218,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1388","Southern Avenue","20:00",314,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1389","Southern Avenue","20:15",281,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1390","Southern Avenue","20:30",217,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1391","Southern Avenue","20:45",266,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1392","Southern Avenue","21:00",176,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1393","Southern Avenue","21:15",244,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1394","Southern Avenue","21:30",154,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1395","Southern Avenue","21:45",151,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1396","Southern Avenue","22:00",249,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1397","Southern Avenue","22:15",148,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1398","Southern Avenue","22:30",145,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1399","Southern Avenue","22:45",128,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1400","Southern Avenue","23:00",93,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1401","Southern Avenue","23:15",127,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1402","Southern Avenue","23:30",49,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1403","Southern Avenue","23:45",38,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1404","Southern Avenue","04:30",1,18,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1405","Naylor Road","04:45",189,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1406","Naylor Road","05:00",216,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1407","Naylor Road","05:15",372,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1408","Naylor Road","05:30",389,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1409","Naylor Road","05:45",424,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1410","Naylor Road","06:00",524,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1411","Naylor Road","06:15",590,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1412","Naylor Road","06:30",578,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1413","Naylor Road","06:45",642,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1414","Naylor Road","07:00",779,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1415","Naylor Road","07:15",948,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1416","Naylor Road","07:30",807,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1417","Naylor Road","07:45",906,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1418","Naylor Road","08:00",769,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1419","Naylor Road","08:15",858,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1420","Naylor Road","08:30",596,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1421","Naylor Road","08:45",628,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1422","Naylor Road","09:00",505,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1423","Naylor Road","09:15",428,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1424","Naylor Road","09:30",413,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1425","Naylor Road","09:45",330,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1426","Naylor Road","10:00",359,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1427","Naylor Road","10:15",320,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1428","Naylor Road","10:30",304,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1429","Naylor Road","10:45",303,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1430","Naylor Road","11:00",284,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1431","Naylor Road","11:15",313,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1432","Naylor Road","11:30",274,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1433","Naylor Road","11:45",269,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1434","Naylor Road","12:00",287,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1435","Naylor Road","12:15",310,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1436","Naylor Road","12:30",209,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1437","Naylor Road","12:45",337,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1438","Naylor Road","13:00",254,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1439","Naylor Road","13:15",323,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1440","Naylor Road","13:30",215,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1441","Naylor Road","13:45",333,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1442","Naylor Road","14:00",231,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1443","Naylor Road","14:15",297,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1444","Naylor Road","14:30",235,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1445","Naylor Road","14:45",299,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1446","Naylor Road","15:00",265,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1447","Naylor Road","15:15",241,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1448","Naylor Road","15:30",299,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1449","Naylor Road","15:45",235,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1450","Naylor Road","16:00",226,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1451","Naylor Road","16:15",260,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1452","Naylor Road","16:30",220,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1453","Naylor Road","16:45",232,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1454","Naylor Road","17:00",217,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1455","Naylor Road","17:15",263,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1456","Naylor Road","17:30",203,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1457","Naylor Road","17:45",218,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1458","Naylor Road","18:00",216,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1459","Naylor Road","18:15",235,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1460","Naylor Road","18:30",180,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1461","Naylor Road","18:45",170,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1462","Naylor Road","19:00",157,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1463","Naylor Road","19:15",179,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1464","Naylor Road","19:30",117,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1465","Naylor Road","19:45",179,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1466","Naylor Road","20:00",136,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1467","Naylor Road","20:15",166,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1468","Naylor Road","20:30",123,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1469","Naylor Road","20:45",170,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1470","Naylor Road","21:00",95,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1471","Naylor Road","21:15",146,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1472","Naylor Road","21:30",164,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1473","Naylor Road","21:45",137,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1474","Naylor Road","22:00",82,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1475","Naylor Road","22:15",126,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1476","Naylor Road","22:30",97,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1477","Naylor Road","22:45",92,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1478","Naylor Road","23:00",79,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1479","Naylor Road","23:15",57,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1480","Naylor Road","23:30",22,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1481","Naylor Road","23:45",14,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1482","Naylor Road","04:30",2,19,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1483","Suitland","04:45",373,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1484","Suitland","05:00",506,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1485","Suitland","05:15",645,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1486","Suitland","05:30",611,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1487","Suitland","05:45",764,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1488","Suitland","06:00",948,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1489","Suitland","06:15",1008,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1490","Suitland","06:30",1168,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1491","Suitland","06:45",1273,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1492","Suitland","07:00",1526,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1493","Suitland","07:15",1507,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1494","Suitland","07:30",1523,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1495","Suitland","07:45",1414,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1496","Suitland","08:00",1466,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1497","Suitland","08:15",1260,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1498","Suitland","08:30",1122,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1499","Suitland","08:45",913,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1500","Suitland","09:00",758,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1501","Suitland","09:15",734,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1502","Suitland","09:30",557,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1503","Suitland","09:45",514,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1504","Suitland","10:00",566,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1505","Suitland","10:15",510,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1506","Suitland","10:30",364,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1507","Suitland","10:45",479,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1508","Suitland","11:00",411,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1509","Suitland","11:15",373,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1510","Suitland","11:30",421,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1511","Suitland","11:45",389,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1512","Suitland","12:00",356,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1513","Suitland","12:15",418,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1514","Suitland","12:30",376,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1515","Suitland","12:45",379,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1516","Suitland","13:00",457,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1517","Suitland","13:15",380,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1518","Suitland","13:30",370,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1519","Suitland","13:45",502,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1520","Suitland","14:00",364,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1521","Suitland","14:15",373,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1522","Suitland","14:30",432,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1523","Suitland","14:45",431,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1524","Suitland","15:00",445,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1525","Suitland","15:15",429,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1526","Suitland","15:30",451,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1527","Suitland","15:45",466,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1528","Suitland","16:00",521,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1529","Suitland","16:15",526,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1530","Suitland","16:30",599,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1531","Suitland","16:45",607,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1532","Suitland","17:00",602,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1533","Suitland","17:15",570,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1534","Suitland","17:30",579,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1535","Suitland","17:45",502,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1536","Suitland","18:00",475,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1537","Suitland","18:15",393,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1538","Suitland","18:30",380,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1539","Suitland","18:45",314,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1540","Suitland","19:00",271,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1541","Suitland","19:15",242,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1542","Suitland","19:30",249,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1543","Suitland","19:45",217,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1544","Suitland","20:00",165,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1545","Suitland","20:15",208,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1546","Suitland","20:30",184,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1547","Suitland","20:45",199,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1548","Suitland","21:00",169,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1549","Suitland","21:15",157,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1550","Suitland","21:30",198,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1551","Suitland","21:45",189,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1552","Suitland","22:00",120,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1553","Suitland","22:15",153,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1554","Suitland","22:30",111,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1555","Suitland","22:45",102,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1556","Suitland","23:00",88,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1557","Suitland","23:15",64,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1558","Suitland","23:30",18,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1559","Suitland","23:45",20,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1560","Suitland","04:30",29,20,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1561","Branch Avenue","04:45",540,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1562","Branch Avenue","05:00",436,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1563","Branch Avenue","05:15",604,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1564","Branch Avenue","05:30",603,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1565","Branch Avenue","05:45",899,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1566","Branch Avenue","06:00",1104,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1567","Branch Avenue","06:15",1347,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1568","Branch Avenue","06:30",1554,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1569","Branch Avenue","06:45",1849,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1570","Branch Avenue","07:00",2061,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1571","Branch Avenue","07:15",2331,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1572","Branch Avenue","07:30",2058,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1573","Branch Avenue","07:45",2109,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1574","Branch Avenue","08:00",2016,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1575","Branch Avenue","08:15",1758,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1576","Branch Avenue","08:30",1525,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1577","Branch Avenue","08:45",1242,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1578","Branch Avenue","09:00",907,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1579","Branch Avenue","09:15",708,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1580","Branch Avenue","09:30",612,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1581","Branch Avenue","09:45",586,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1582","Branch Avenue","10:00",547,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1583","Branch Avenue","10:15",456,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1584","Branch Avenue","10:30",453,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1585","Branch Avenue","10:45",424,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1586","Branch Avenue","11:00",375,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1587","Branch Avenue","11:15",412,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1588","Branch Avenue","11:30",360,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1589","Branch Avenue","11:45",354,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1590","Branch Avenue","12:00",314,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1591","Branch Avenue","12:15",359,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1592","Branch Avenue","12:30",406,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1593","Branch Avenue","12:45",282,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1594","Branch Avenue","13:00",365,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1595","Branch Avenue","13:15",300,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1596","Branch Avenue","13:30",272,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1597","Branch Avenue","13:45",315,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1598","Branch Avenue","14:00",287,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1599","Branch Avenue","14:15",264,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1600","Branch Avenue","14:30",343,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1601","Branch Avenue","14:45",249,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1602","Branch Avenue","15:00",267,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1603","Branch Avenue","15:15",308,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1604","Branch Avenue","15:30",260,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1605","Branch Avenue","15:45",283,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1606","Branch Avenue","16:00",296,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1607","Branch Avenue","16:15",336,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1608","Branch Avenue","16:30",332,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1609","Branch Avenue","16:45",296,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1610","Branch Avenue","17:00",293,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1611","Branch Avenue","17:15",347,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1612","Branch Avenue","17:30",286,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1613","Branch Avenue","17:45",308,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1614","Branch Avenue","18:00",261,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1615","Branch Avenue","18:15",258,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1616","Branch Avenue","18:30",218,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1617","Branch Avenue","18:45",246,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1618","Branch Avenue","19:00",203,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1619","Branch Avenue","19:15",171,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1620","Branch Avenue","19:30",192,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1621","Branch Avenue","19:45",134,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1622","Branch Avenue","20:00",168,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1623","Branch Avenue","20:15",126,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1624","Branch Avenue","20:30",116,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1625","Branch Avenue","20:45",164,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1626","Branch Avenue","21:00",117,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1627","Branch Avenue","21:15",133,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1628","Branch Avenue","21:30",152,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1629","Branch Avenue","21:45",135,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1630","Branch Avenue","22:00",113,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1631","Branch Avenue","22:15",107,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1632","Branch Avenue","22:30",77,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1633","Branch Avenue","22:45",54,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1634","Branch Avenue","23:00",60,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1635","Branch Avenue","23:15",41,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1636","Branch Avenue","23:30",12,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1637","Branch Avenue","23:45",11,21,"Green","#19AF56","#e8f7ee",3.5,16.5
+"1638","Branch Avenue","04:30",85,21,"Green","#19AF56","#e8f7ee",3.5,16.5
