@@ -1,6 +1,7 @@
 library(dplyr)
 library(reshape2)
 library(ggplot2)
+library(reshape2)
 
 rm(list=ls())
 setwd("/Users/johnricco/Documents/Projects/metro_time")
@@ -14,13 +15,10 @@ stations <- read.csv("my_metro.csv", stringsAsFactors=FALSE)
 ### Filter and collapse by sums
 rideSums <- rides %>% 
   select(day=ENTDATEDAYOFWEEK, station=ENTSTATION, time=ENTQUARTHOUR, trips=AVG_TRIPS ) %>%
-  filter(day != "Sat", day != "Sun") %>%
+  filter(day == "Wed") %>%
   arrange(station,time) %>%
   group_by(station, time) %>%
   summarise(totalTrips=sum(trips))
-
-stopifnot(nrow(rideSums) <= 24*4*91) # check no. of rows
-stopifnot(length(unique(rideSums$station))==91) # check no. of stations
 
 rm(rides)
 
@@ -69,7 +67,7 @@ times <- unique(merged$mlTime)
 times <- data.frame(mlTime = times[order(times)])
 times$id <- as.numeric(as.factor((times$mlTime)))
 times <- times %>% 
-  filter( id >= 19 ) %>% 
+  filter( id >= 17 ) %>% 
   select( -id )
 
 filtered <- semi_join(merged,times, by = 'mlTime')

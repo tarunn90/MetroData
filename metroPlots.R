@@ -2,68 +2,49 @@ library(ggplot2)
 library(dplyr)
 library(shiny)
 
-green <- dfListBalanced$Green
+rm(list=ls())
+home_path = "/Users/johnricco/Documents/Projects/metro_time/"
+data_path = "/Users/johnricco/Documents/Projects/metro_time/cleaned_data/"
+plot_path = "/Users/johnricco/Documents/Projects/metro_time/Plots"
+setwd(data_path)
 
+### Read data
+d <- lapply(list.files(pattern = ".csv"), function(x) read.csv(x, stringsAsFactors = F))
+times <- read.csv("./times/times.csv", stringsAsFactors = F)
+times <- times[, 2]
+
+################################ Plots ################################
+
+setwd(plot_path)
+ml_times <- unique(d[[1]]$Time)
+lines <- unlist(lapply(1:6, function(x) unique(d[[x]]$line)))
+
+plot_function <- function(time_id, this_line) {
   
-# # Bar
-# p1 <- ggplot(greenSelect,aes(x=reorder(Station,Green),y=Entrances)) + geom_bar(stat="identity")
-# p1 <- p1 + theme(axis.text.x = element_text(angle = 45, hjust = 1))
-# p1
-# 
-# # Scatter with connected dots
-# p2 <- ggplot(greenSelect, aes(x=reorder(Station,Green), y=Entrances,group=1)) + geom_point(color="green")
-# p2 <- p2 + theme(axis.text.x = element_text(angle = 45, hjust = 1))
-# p2 <- p2 + theme(axis.title.x = element_blank())
-# p2 <- p2 + geom_line(color="green")
-# p2 <- p2 + ggtitle("Green: 08:00")
-# p2
-
-### For each line:
-# Put all times in vector
-greenTimes <- unique(dfListBalanced$Green[,2])
-
-# Create plot for single time in Green line
-greenTrial1 <- dfListBalanced$Green %>%
-  filter(Time==greenTimes[1]) %>%
-  arrange(Order)
-
-title = paste("Green:", as.character(greenTimes[1]))
-
-plotTrial <- ggplot(greenTrial1, aes(x=reorder(Station,Order), y=Entrances,group=1)) + geom_point(color="green") + 
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  theme(axis.title.x = element_blank()) +
-  geom_line(color="green") +
-  ggtitle(title)
-
-plotTrial
-
-
-
-# Cycle through every time for green line
-myPlot <- function(TimePassed) {
-  greenSubset1 <- dfListBalanced$Green %>%
-      filter(Time==as.character(TimePassed))
+  ex <- filter(d[[this_line]], Time == ml_times[time_id])
+  ex_color <- unique(ex$color1)
   
-  title = paste("Green: ", as.character(TimePassed))
+  p <- ggplot(ex, aes(x = reorder(Station, Order), y = Entrances, group = 1)) + 
+    
+    #Aesthetic formatting
+    geom_line(size = 6, color = ex_color) + 
+    geom_point(size = 5, color = "black", fill = "white", shape = 21) +
+    
+    #Axis formatting
+    theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+    theme(axis.title.x = element_blank()) +
+    scale_y_continuous(limits = c(0, 10000)) +
+    
+    #Text formatting
+    ggtitle(times[time_id])
   
-  p3 <- ggplot(greenSubset1, aes(x=reorder(Station,Green), y=Entrances,group=1)) + geom_point(color="green")
-  p3 <- p3 + theme(axis.text.x = element_text(angle = 45, hjust = 1))
-  p3 <- p3 + theme(axis.title.x = element_blank())
-  p3 <- p3 + geom_line(color="green")
-  p3 <- p3 + ggtitle(title)
-  p3
-  
-  return(p3)
+  p
+  ggsave(paste0(lines[this_line], time_id,".png"), width = 9, height = 8)
+
 }
 
-
-plotArray <- lapply(greenTimes, myPlot)
-
-rm(plotArray,plotTrial,greenTrial1,greenSelect,greenTimes)
-
-### NOTES
-# Need to fix axis scale (within line; maybe across lines)
-# General beyoo-tification (text, wider lines, white dots, etc.)
-# Change color of lines
-# Make lines smooth - geom? stat-smooth?
-# put photo for background?
+for (i in 1:6) {
+  for (j in 1:78) {
+    plot_function(j, i)
+  }
+}
